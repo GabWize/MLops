@@ -1,4 +1,4 @@
-Frist Milestone takss
+Frist Milestone taks
 
 * Download a dataset for any public repository
 * Load the dataset into Jupyter Notebook
