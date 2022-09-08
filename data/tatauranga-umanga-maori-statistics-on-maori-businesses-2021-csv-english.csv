@@ -1,0 +1,945 @@
+Table_Number,Table_name,Table_sub_name,Breakdown,Section,Units,Value,Time_Period,Footnotes
+Table 1,Counts of businesses - Maori authorities,By industry group,Agriculture,Maori authorities,Counts,210,2020,1 and 2
+Table 1,Counts of businesses - Maori authorities,By industry group,Agriculture,Maori authorities,Counts,210,2021,1 and 2
+Table 1,Counts of businesses - Maori authorities,By industry group,Other primary industries,Maori authorities,Counts,81,2020,1 and 2
+Table 1,Counts of businesses - Maori authorities,By industry group,Other primary industries,Maori authorities,Counts,84,2021,1 and 2
+Table 1,Counts of businesses - Maori authorities,By industry group,Non-residential property operators,Maori authorities,Counts,387,2020,1 and 2
+Table 1,Counts of businesses - Maori authorities,By industry group,Non-residential property operators,Maori authorities,Counts,381,2021,1 and 2
+Table 1,Counts of businesses - Maori authorities,By industry group,All other industries,Maori authorities,Counts,540,2020,1 and 2
+Table 1,Counts of businesses - Maori authorities,By industry group,All other industries,Maori authorities,Counts,549,2021,1 and 2
+Table 1,Counts of businesses - Maori authorities,By industry group,Total,Maori authorities,Counts,1215,2020,1 and 2
+Table 1,Counts of businesses - Maori authorities,By industry group,Total,Maori authorities,Counts,1227,2021,1 and 2
+Table 2,Counts of employees - Maori authorities,By industry group,Agriculture,Maori authorities,Counts,1750,2020,1 and 2
+Table 2,Counts of employees - Maori authorities,By industry group,Agriculture,Maori authorities,Counts,1700,2021,1 and 2
+Table 2,Counts of employees - Maori authorities,By industry group,Other primary industries,Maori authorities,Counts,1350,2020,1 and 2
+Table 2,Counts of employees - Maori authorities,By industry group,Other primary industries,Maori authorities,Counts,1200,2021,1 and 2
+Table 2,Counts of employees - Maori authorities,By industry group,Non-residential property operators,Maori authorities,Counts,280,2020,1 and 2
+Table 2,Counts of employees - Maori authorities,By industry group,Non-residential property operators,Maori authorities,Counts,380,2021,1 and 2
+Table 2,Counts of employees - Maori authorities,By industry group,All other industries,Maori authorities,Counts,7800,2020,1 and 2
+Table 2,Counts of employees - Maori authorities,By industry group,All other industries,Maori authorities,Counts,7800,2021,1 and 2
+Table 2,Counts of employees - Maori authorities,By industry group,Total,Maori authorities,Counts,11200,2020,1 and 2
+Table 2,Counts of employees - Maori authorities,By industry group,Total,Maori authorities,Counts,11100,2021,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,"Agriculture, forestry, and fishing",Other Maori enterprises,Counts,87,2020,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,"Agriculture, forestry, and fishing",Other Maori enterprises,Counts,87,2021,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Mining,Other Maori enterprises,Counts,3,2020,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Mining,Other Maori enterprises,Counts,3,2021,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Manufacturing,Other Maori enterprises,Counts,66,2020,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Manufacturing,Other Maori enterprises,Counts,69,2021,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,"Electricity, gas, water, and waste services",Other Maori enterprises,Counts,6,2020,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,"Electricity, gas, water, and waste services",Other Maori enterprises,Counts,6,2021,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Construction,Other Maori enterprises,Counts,78,2020,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Construction,Other Maori enterprises,Counts,84,2021,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Wholesale trade,Other Maori enterprises,Counts,33,2020,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Wholesale trade,Other Maori enterprises,Counts,33,2021,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Retail trade,Other Maori enterprises,Counts,21,2020,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Retail trade,Other Maori enterprises,Counts,24,2021,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Accommodation and food services,Other Maori enterprises,Counts,27,2020,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Accommodation and food services,Other Maori enterprises,Counts,27,2021,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,"Transport, postal, and warehousing",Other Maori enterprises,Counts,33,2020,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,"Transport, postal, and warehousing",Other Maori enterprises,Counts,36,2021,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Information media and telecommunications,Other Maori enterprises,Counts,30,2020,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Information media and telecommunications,Other Maori enterprises,Counts,30,2021,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Financial and insurance services,Other Maori enterprises,Counts,9,2020,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Financial and insurance services,Other Maori enterprises,Counts,12,2021,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,"Rental, hiring, and real estate services",Other Maori enterprises,Counts,21,2020,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,"Rental, hiring, and real estate services",Other Maori enterprises,Counts,18,2021,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,"Professional, scientific, and technical services",Other Maori enterprises,Counts,108,2020,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,"Professional, scientific, and technical services",Other Maori enterprises,Counts,114,2021,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Administrative and support services,Other Maori enterprises,Counts,57,2020,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Administrative and support services,Other Maori enterprises,Counts,60,2021,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Public administration and safety,Other Maori enterprises,Counts,6,2020,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Public administration and safety,Other Maori enterprises,Counts,6,2021,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Education and training,Other Maori enterprises,Counts,30,2020,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Education and training,Other Maori enterprises,Counts,30,2021,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Health care and social assistance,Other Maori enterprises,Counts,33,2020,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Health care and social assistance,Other Maori enterprises,Counts,39,2021,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Arts and recreational services,Other Maori enterprises,Counts,51,2020,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Arts and recreational services,Other Maori enterprises,Counts,51,2021,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Other services,Other Maori enterprises,Counts,51,2020,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Other services,Other Maori enterprises,Counts,51,2021,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Total,Other Maori enterprises,Counts,756,2020,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Total,Other Maori enterprises,Counts,780,2021,1 and 2
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Accommodation and food services,Maori tourism,Counts,54,2020,1 and 3
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Accommodation and food services,Maori tourism,Counts,54,2021,1 and 3
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,"Transport, postal, and warehousing",Maori tourism,Counts,24,2020,1 and 3
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,"Transport, postal, and warehousing",Maori tourism,Counts,27,2021,1 and 3
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,"Rental, hiring, and real estate services",Maori tourism,Counts,3,2020,1 and 3
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,"Rental, hiring, and real estate services",Maori tourism,Counts,3,2021,1 and 3
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Administrative and support services,Maori tourism,Counts,21,2020,1 and 3
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Administrative and support services,Maori tourism,Counts,24,2021,1 and 3
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Arts and recreational services,Maori tourism,Counts,63,2020,1 and 3
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Arts and recreational services,Maori tourism,Counts,66,2021,1 and 3
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,All other industries,Maori tourism,Counts,24,2020,1 and 3
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,All other industries,Maori tourism,Counts,24,2021,1 and 3
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Total,Maori tourism,Counts,192,2020,1 and 3
+Table 3,Counts of businesses - Other Maori enterprises and Maori tourism,By industry division,Total,Maori tourism,Counts,198,2021,1 and 3
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,"Agriculture, forestry, and fishing",Other Maori enterprises,Counts,1850,2020,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,"Agriculture, forestry, and fishing",Other Maori enterprises,Counts,1700,2021,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Mining,Other Maori enterprises,Counts,15,2020,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Mining,Other Maori enterprises,Counts,25,2021,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Manufacturing,Other Maori enterprises,Counts,990,2020,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Manufacturing,Other Maori enterprises,Counts,990,2021,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,"Electricity, gas, water, and waste services",Other Maori enterprises,Counts,55,2020,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,"Electricity, gas, water, and waste services",Other Maori enterprises,Counts,60,2021,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Construction,Other Maori enterprises,Counts,1650,2020,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Construction,Other Maori enterprises,Counts,1650,2021,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Wholesale trade,Other Maori enterprises,Counts,650,2020,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Wholesale trade,Other Maori enterprises,Counts,690,2021,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Retail trade,Other Maori enterprises,Counts,230,2020,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Retail trade,Other Maori enterprises,Counts,250,2021,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Accommodation and food services,Other Maori enterprises,Counts,400,2020,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Accommodation and food services,Other Maori enterprises,Counts,350,2021,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,"Transport, postal, and warehousing",Other Maori enterprises,Counts,290,2020,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,"Transport, postal, and warehousing",Other Maori enterprises,Counts,210,2021,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Information media and telecommunications,Other Maori enterprises,Counts,120,2020,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Information media and telecommunications,Other Maori enterprises,Counts,120,2021,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Financial and insurance services,Other Maori enterprises,Counts,30,2020,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Financial and insurance services,Other Maori enterprises,Counts,30,2021,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,"Rental, hiring, and real estate services",Other Maori enterprises,Counts,120,2020,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,"Rental, hiring, and real estate services",Other Maori enterprises,Counts,140,2021,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,"Professional, scientific, and technical services",Other Maori enterprises,Counts,630,2020,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,"Professional, scientific, and technical services",Other Maori enterprises,Counts,700,2021,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Administrative and support services,Other Maori enterprises,Counts,830,2020,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Administrative and support services,Other Maori enterprises,Counts,930,2021,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Public administration and safety,Other Maori enterprises,Counts,90,2020,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Public administration and safety,Other Maori enterprises,Counts,110,2021,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Education and training,Other Maori enterprises,Counts,270,2020,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Education and training,Other Maori enterprises,Counts,250,2021,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Health care and social assistance,Other Maori enterprises,Counts,730,2020,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Health care and social assistance,Other Maori enterprises,Counts,910,2021,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Arts and recreational services,Other Maori enterprises,Counts,630,2020,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Arts and recreational services,Other Maori enterprises,Counts,400,2021,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Other services,Other Maori enterprises,Counts,180,2020,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Other services,Other Maori enterprises,Counts,190,2021,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Total,Other Maori enterprises,Counts,9800,2020,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Total,Other Maori enterprises,Counts,9700,2021,1 and 2
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Accommodation and food services,Maori tourism,Counts,980,2020,1 and 3
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Accommodation and food services,Maori tourism,Counts,780,2021,1 and 3
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,"Transport, postal, and warehousing",Maori tourism,Counts,180,2020,1 and 3
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,"Transport, postal, and warehousing",Maori tourism,Counts,160,2021,1 and 3
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,"Rental, hiring, and real estate services",Maori tourism,Counts,0,2020,1 and 3
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,"Rental, hiring, and real estate services",Maori tourism,Counts,0,2021,1 and 3
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Administrative and support services,Maori tourism,Counts,180,2020,1 and 3
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Administrative and support services,Maori tourism,Counts,50,2021,1 and 3
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Arts and recreational services,Maori tourism,Counts,930,2020,1 and 3
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Arts and recreational services,Maori tourism,Counts,670,2021,1 and 3
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,All other industries,Maori tourism,Counts,85,2020,1 and 3
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,All other industries,Maori tourism,Counts,80,2021,1 and 3
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Total,Maori tourism,Counts,2350,2020,1 and 3
+Table 4,Count of employees - Other Maori enterprises and Maori tourism,By industry division,Total,Maori tourism,Counts,1750,2021,1 and 3
+Table 5,Counts of businesses,By business type and size,0 to 19,Maori authorities,Counts,1131,2020,1 and 2 and 3
+Table 5,Counts of businesses,By business type and size,0 to 19,Maori authorities,Counts,1134,2021,1 and 2 and 3
+Table 5,Counts of businesses,By business type and size,20 to 49,Maori authorities,Counts,39,2020,1 and 2 and 3
+Table 5,Counts of businesses,By business type and size,20 to 49,Maori authorities,Counts,48,2021,1 and 2 and 3
+Table 5,Counts of businesses,By business type and size,50 to 99,Maori authorities,Counts,21,2020,1 and 2 and 3
+Table 5,Counts of businesses,By business type and size,50 to 99,Maori authorities,Counts,24,2021,1 and 2 and 3
+Table 5,Counts of businesses,By business type and size,100+,Maori authorities,Counts,24,2020,1 and 2 and 3
+Table 5,Counts of businesses,By business type and size,100+,Maori authorities,Counts,21,2021,1 and 2 and 3
+Table 5,Counts of businesses,By business type and size,Total,Maori authorities,Counts,1215,2020,1 and 2 and 3
+Table 5,Counts of businesses,By business type and size,Total,Maori authorities,Counts,1227,2021,1 and 2 and 3
+Table 5,Counts of businesses,By business type and size,0 to 19,Other Maori enterprises,Counts,609,2020,1 and 2 and 4
+Table 5,Counts of businesses,By business type and size,0 to 19,Other Maori enterprises,Counts,633,2021,1 and 2 and 4
+Table 5,Counts of businesses,By business type and size,20 to 49,Other Maori enterprises,Counts,78,2020,1 and 2 and 4
+Table 5,Counts of businesses,By business type and size,20 to 49,Other Maori enterprises,Counts,90,2021,1 and 2 and 4
+Table 5,Counts of businesses,By business type and size,50 to 99,Other Maori enterprises,Counts,57,2020,1 and 2 and 4
+Table 5,Counts of businesses,By business type and size,50 to 99,Other Maori enterprises,Counts,51,2021,1 and 2 and 4
+Table 5,Counts of businesses,By business type and size,100+,Other Maori enterprises,Counts,6,2020,1 and 2 and 4
+Table 5,Counts of businesses,By business type and size,100+,Other Maori enterprises,Counts,9,2021,1 and 2 and 4
+Table 5,Counts of businesses,By business type and size,Total,Other Maori enterprises,Counts,756,2020,1 and 2 and 4
+Table 5,Counts of businesses,By business type and size,Total,Other Maori enterprises,Counts,780,2021,1 and 2 and 4
+Table 5,Counts of businesses,By business type and size,0 to 19,Maori tourism,Counts,156,2020,1 and 2 and 5
+Table 5,Counts of businesses,By business type and size,0 to 19,Maori tourism,Counts,174,2021,1 and 2 and 5
+Table 5,Counts of businesses,By business type and size,20 to 49,Maori tourism,Counts,21,2020,1 and 2 and 5
+Table 5,Counts of businesses,By business type and size,20 to 49,Maori tourism,Counts,15,2021,1 and 2 and 5
+Table 5,Counts of businesses,By business type and size,50 to 99,Maori tourism,Counts,9,2020,1 and 2 and 5
+Table 5,Counts of businesses,By business type and size,50 to 99,Maori tourism,Counts,9,2021,1 and 2 and 5
+Table 5,Counts of businesses,By business type and size,100+,Maori tourism,Counts,6,2020,1 and 2 and 5
+Table 5,Counts of businesses,By business type and size,100+,Maori tourism,Counts,0,2021,1 and 2 and 5
+Table 5,Counts of businesses,By business type and size,Total,Maori tourism,Counts,192,2020,1 and 2 and 5
+Table 5,Counts of businesses,By business type and size,Total,Maori tourism,Counts,198,2021,1 and 2 and 5
+Table 6,Count of employees,By business type and size,0 to 19,Maori authorities,Counts,2000,2020,1 and 2 and 3
+Table 6,Count of employees,By business type and size,0 to 19,Maori authorities,Counts,2050,2021,1 and 2 and 3
+Table 6,Count of employees,By business type and size,20 to 49,Maori authorities,Counts,1250,2020,1 and 2 and 3
+Table 6,Count of employees,By business type and size,20 to 49,Maori authorities,Counts,1500,2021,1 and 2 and 3
+Table 6,Count of employees,By business type and size,50 to 99,Maori authorities,Counts,1400,2020,1 and 2 and 3
+Table 6,Count of employees,By business type and size,50 to 99,Maori authorities,Counts,1750,2021,1 and 2 and 3
+Table 6,Count of employees,By business type and size,100+,Maori authorities,Counts,6600,2020,1 and 2 and 3
+Table 6,Count of employees,By business type and size,100+,Maori authorities,Counts,5900,2021,1 and 2 and 3
+Table 6,Count of employees,By business type and size,Total,Maori authorities,Counts,11200,2020,1 and 2 and 3
+Table 6,Count of employees,By business type and size,Total,Maori authorities,Counts,11100,2021,1 and 2 and 3
+Table 6,Count of employees,By business type and size,0 to 19,Other Maori enterprises,Counts,2400,2020,1 and 2 and 4
+Table 6,Count of employees,By business type and size,0 to 19,Other Maori enterprises,Counts,2550,2021,1 and 2 and 4
+Table 6,Count of employees,By business type and size,20 to 49,Other Maori enterprises,Counts,2500,2020,1 and 2 and 4
+Table 6,Count of employees,By business type and size,20 to 49,Other Maori enterprises,Counts,2750,2021,1 and 2 and 4
+Table 6,Count of employees,By business type and size,50 to 99,Other Maori enterprises,Counts,3850,2020,1 and 2 and 4
+Table 6,Count of employees,By business type and size,50 to 99,Other Maori enterprises,Counts,3500,2021,1 and 2 and 4
+Table 6,Count of employees,By business type and size,100+,Other Maori enterprises,Counts,980,2020,1 and 2 and 4
+Table 6,Count of employees,By business type and size,100+,Other Maori enterprises,Counts,890,2021,1 and 2 and 4
+Table 6,Count of employees,By business type and size,Total,Other Maori enterprises,Counts,9800,2020,1 and 2 and 4
+Table 6,Count of employees,By business type and size,Total,Other Maori enterprises,Counts,9700,2021,1 and 2 and 4
+Table 6,Count of employees,By business type and size,0 to 19,Maori tourism,Counts,560,2020,1 and 2 and 5
+Table 6,Count of employees,By business type and size,0 to 19,Maori tourism,Counts,660,2021,1 and 2 and 5
+Table 6,Count of employees,By business type and size,20 to 49,Maori tourism,Counts,570,2020,1 and 2 and 5
+Table 6,Count of employees,By business type and size,20 to 49,Maori tourism,Counts,390,2021,1 and 2 and 5
+Table 6,Count of employees,By business type and size,50 to 99,Maori tourism,Counts,550,2020,1 and 2 and 5
+Table 6,Count of employees,By business type and size,50 to 99,Maori tourism,Counts,460,2021,1 and 2 and 5
+Table 6,Count of employees,By business type and size,100+,Maori tourism,Counts,660,2020,1 and 2 and 5
+Table 6,Count of employees,By business type and size,100+,Maori tourism,Counts,240,2021,1 and 2 and 5
+Table 6,Count of employees,By business type and size,Total,Maori tourism,Counts,2350,2020,1 and 2 and 5
+Table 6,Count of employees,By business type and size,Total,Maori tourism,Counts,1750,2021,1 and 2 and 5
+Table 7,Financials - Maori authorities,Total all industries,Total income,Financial performance,Thousand Dollars,3326526,2020,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Total income,Financial performance,Thousand Dollars,3953417,2021,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Sales of goods and services,Financial performance,Thousand Dollars,2851722,2020,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Sales of goods and services,Financial performance,Thousand Dollars,3147888,2021,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,"Interest, dividends and donations",Financial performance,Thousand Dollars,237359,2020,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,"Interest, dividends and donations",Financial performance,Thousand Dollars,218995,2021,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,"Government funding, grants and subsidies",Financial performance,Thousand Dollars,64839,2020,1 and 2 and 3 and 4 and 5
+Table 7,Financials - Maori authorities,Total all industries,"Government funding, grants and subsidies",Financial performance,Thousand Dollars,67719,2021,1 and 2 and 3 and 4 and 5
+Table 7,Financials - Maori authorities,Total all industries,Non-operating income,Financial performance,Thousand Dollars,172606,2020,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Non-operating income,Financial performance,Thousand Dollars,518814,2021,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Total expenditure,Financial performance,Thousand Dollars,2921308,2020,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Total expenditure,Financial performance,Thousand Dollars,2909270,2021,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Interest and donations,Financial performance,Thousand Dollars,133377,2020,1 and 2 and 3 and 4 and 6
+Table 7,Financials - Maori authorities,Total all industries,Interest and donations,Financial performance,Thousand Dollars,113816,2021,1 and 2 and 3 and 4 and 6
+Table 7,Financials - Maori authorities,Total all industries,Indirect taxes,Financial performance,Thousand Dollars,24385,2020,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Indirect taxes,Financial performance,Thousand Dollars,26909,2021,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Depreciation,Financial performance,Thousand Dollars,158536,2020,1 and 2 and 3 and 4 and 6
+Table 7,Financials - Maori authorities,Total all industries,Depreciation,Financial performance,Thousand Dollars,190574,2021,1 and 2 and 3 and 4 and 6
+Table 7,Financials - Maori authorities,Total all industries,Salaries and wages paid,Financial performance,Thousand Dollars,518975,2020,1 and 2 and 3 and 4 and 7
+Table 7,Financials - Maori authorities,Total all industries,Salaries and wages paid,Financial performance,Thousand Dollars,533268,2021,1 and 2 and 3 and 4 and 7
+Table 7,Financials - Maori authorities,Total all industries,Purchases and operating expenses,Financial performance,Thousand Dollars,1981197,2020,1 and 2 and 3 and 4 and 6
+Table 7,Financials - Maori authorities,Total all industries,Purchases and operating expenses,Financial performance,Thousand Dollars,1948259,2021,1 and 2 and 3 and 4 and 6
+Table 7,Financials - Maori authorities,Total all industries,Non-operating expenses,Financial performance,Thousand Dollars,104838,2020,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Non-operating expenses,Financial performance,Thousand Dollars,96444,2021,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Opening stocks,Financial performance,Thousand Dollars,516466,2020,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Opening stocks,Financial performance,Thousand Dollars,534835,2021,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Closing stocks,Financial performance,Thousand Dollars,533661,2020,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Closing stocks,Financial performance,Thousand Dollars,543630,2021,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Surplus before income tax,Financial performance,Thousand Dollars,422413,2020,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Surplus before income tax,Financial performance,Thousand Dollars,1052942,2021,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Operating profit,Financial performance,Thousand Dollars,354645,2020,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Operating profit,Financial performance,Thousand Dollars,630571,2021,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Total assets,Financial position,Thousand Dollars,20866338,2020,1 and 2 and 3 and 4 and 6
+Table 7,Financials - Maori authorities,Total all industries,Total assets,Financial position,Thousand Dollars,21487617,2021,1 and 2 and 3 and 4 and 6
+Table 7,Financials - Maori authorities,Total all industries,Current assets,Financial position,Thousand Dollars,3261592,2020,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Current assets,Financial position,Thousand Dollars,3335420,2021,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Fixed tangible assets,Financial position,Thousand Dollars,8662925,2020,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Fixed tangible assets,Financial position,Thousand Dollars,9112342,2021,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Other assets,Financial position,Thousand Dollars,8941821,2020,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Other assets,Financial position,Thousand Dollars,9039855,2021,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Total equity and liabilities,Financial position,Thousand Dollars,20866338,2020,1 and 2 and 3 and 4 and 6
+Table 7,Financials - Maori authorities,Total all industries,Total equity and liabilities,Financial position,Thousand Dollars,21487617,2021,1 and 2 and 3 and 4 and 6
+Table 7,Financials - Maori authorities,Total all industries,Shareholders funds or owners equity,Financial position,Thousand Dollars,14675655,2020,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Shareholders funds or owners equity,Financial position,Thousand Dollars,15362588,2021,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Current liabilities,Financial position,Thousand Dollars,2154412,2020,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Current liabilities,Financial position,Thousand Dollars,2209754,2021,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Other liabilities,Financial position,Thousand Dollars,4036271,2020,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Other liabilities,Financial position,Thousand Dollars,3915275,2021,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Total income per employee count,Financial ratios,Dollars,358924,2020,1 and 2 and 3 and 4 and 8
+Table 7,Financials - Maori authorities,Total all industries,Total income per employee count,Financial ratios,Dollars,426497,2021,1 and 2 and 3 and 4 and 8
+Table 7,Financials - Maori authorities,Total all industries,Surplus per employee count,Financial ratios,Dollars,45577,2020,1 and 2 and 3 and 4 and 8
+Table 7,Financials - Maori authorities,Total all industries,Surplus per employee count,Financial ratios,Dollars,113592,2021,1 and 2 and 3 and 4 and 8
+Table 7,Financials - Maori authorities,Total all industries,Current ratio,Financial ratios,Percent,151.4,2020,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Current ratio,Financial ratios,Percent,150.9,2021,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Quick ratio,Financial ratios,Percent,126.6,2020,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Quick ratio,Financial ratios,Percent,126.3,2021,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Return on equity,Financial ratios,Percent,2.9,2020,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Return on equity,Financial ratios,Percent,6.9,2021,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Return on total assets,Financial ratios,Percent,2,2020,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Return on total assets,Financial ratios,Percent,4.9,2021,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Liabilities structure,Financial ratios,Percent,70.3,2020,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Liabilities structure,Financial ratios,Percent,71.5,2021,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Debt to equity ratio,Financial ratios,Percent,42.2,2020,1 and 2 and 3 and 4
+Table 7,Financials - Maori authorities,Total all industries,Debt to equity ratio,Financial ratios,Percent,39.9,2021,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Total income,Financial performance,Thousand Dollars,506730,2020,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Total income,Financial performance,Thousand Dollars,512012,2021,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Total expenditure,Financial performance,Thousand Dollars,450748,2020,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Total expenditure,Financial performance,Thousand Dollars,445819,2021,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Interest and donations,Financial performance,Thousand Dollars,24559,2020,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Interest and donations,Financial performance,Thousand Dollars,20705,2021,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Indirect taxes,Financial performance,Thousand Dollars,7535,2020,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Indirect taxes,Financial performance,Thousand Dollars,6881,2021,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Depreciation,Financial performance,Thousand Dollars,24580,2020,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Depreciation,Financial performance,Thousand Dollars,25094,2021,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Salaries and wages paid,Financial performance,Thousand Dollars,59496,2020,1 and 2 and 3 and 4 and 5
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Salaries and wages paid,Financial performance,Thousand Dollars,61589,2021,1 and 2 and 3 and 4 and 5
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Purchases and other expenses,Financial performance,Thousand Dollars,334578,2020,1 and 2 and 3 and 4 and 6
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Purchases and other expenses,Financial performance,Thousand Dollars,331550,2021,1 and 2 and 3 and 4 and 6
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Opening stocks,Financial performance,Thousand Dollars,316981,2020,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Opening stocks,Financial performance,Thousand Dollars,308846,2021,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Closing stocks,Financial performance,Thousand Dollars,310088,2020,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Closing stocks,Financial performance,Thousand Dollars,309379,2021,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Surplus before income tax,Financial performance,Thousand Dollars,49089,2020,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Surplus before income tax,Financial performance,Thousand Dollars,66726,2021,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Total assets,Financial position,Thousand Dollars,3489711,2020,1 and 2 and 3 and 4 and 7
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Total assets,Financial position,Thousand Dollars,3660607,2021,1 and 2 and 3 and 4 and 7
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Current assets,Financial position,Thousand Dollars,607817,2020,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Current assets,Financial position,Thousand Dollars,634052,2021,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Fixed tangible assets,Financial position,Thousand Dollars,2328426,2020,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Fixed tangible assets,Financial position,Thousand Dollars,2462972,2021,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Other assets,Financial position,Thousand Dollars,553468,2020,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Other assets,Financial position,Thousand Dollars,563583,2021,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Total equity and liabilities,Financial position,Thousand Dollars,3489711,2020,1 and 2 and 3 and 4 and 7
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Total equity and liabilities,Financial position,Thousand Dollars,3660607,2021,1 and 2 and 3 and 4 and 7
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Shareholders funds or owners equity,Financial position,Thousand Dollars,2779311,2020,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Shareholders funds or owners equity,Financial position,Thousand Dollars,2942259,2021,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Current liabilities,Financial position,Thousand Dollars,192202,2020,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Current liabilities,Financial position,Thousand Dollars,215235,2021,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Other liabilities,Financial position,Thousand Dollars,518198,2020,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Other liabilities,Financial position,Thousand Dollars,503112,2021,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Total income per employee count,Financial ratios,Dollars,291495,2020,1 and 2 and 3 and 4 and 8
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Total income per employee count,Financial ratios,Dollars,287804,2021,1 and 2 and 3 and 4 and 8
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Surplus per employee count,Financial ratios,Dollars,28238,2020,1 and 2 and 3 and 4 and 8
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Surplus per employee count,Financial ratios,Dollars,37507,2021,1 and 2 and 3 and 4 and 8
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Current ratio,Financial ratios,Percent,316.2,2020,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Current ratio,Financial ratios,Percent,294.6,2021,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Quick ratio,Financial ratios,Percent,154.9,2020,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Quick ratio,Financial ratios,Percent,150.8,2021,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Return on equity,Financial ratios,Percent,1.8,2020,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Return on equity,Financial ratios,Percent,2.3,2021,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Return on total assets,Financial ratios,Percent,1.4,2020,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Return on total assets,Financial ratios,Percent,1.8,2021,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Liabilities structure,Financial ratios,Percent,79.6,2020,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Liabilities structure,Financial ratios,Percent,80.4,2021,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Debt to equity ratio,Financial ratios,Percent,25.6,2020,1 and 2 and 3 and 4
+Table 8,Financials - Maori authorities: Agriculture,ANZSIC06 subdivision A01,Debt to equity ratio,Financial ratios,Percent,24.4,2021,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Total income,Financial performance,Thousand Dollars,364599,2020,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Total income,Financial performance,Thousand Dollars,691196,2021,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Sales of goods and services,Financial performance,Thousand Dollars,272893,2020,1 and 2 and 3 and 4 and 5
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Sales of goods and services,Financial performance,Thousand Dollars,292226,2021,1 and 2 and 3 and 4 and 5
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,"Interest, dividends and donations",Financial performance,Thousand Dollars,12970,2020,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,"Interest, dividends and donations",Financial performance,Thousand Dollars,12989,2021,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Non-operating income,Financial performance,Thousand Dollars,78737,2020,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Non-operating income,Financial performance,Thousand Dollars,385981,2021,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Total expenditure,Financial performance,Thousand Dollars,243519,2020,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Total expenditure,Financial performance,Thousand Dollars,211588,2021,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Interest and donations,Financial performance,Thousand Dollars,27837,2020,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Interest and donations,Financial performance,Thousand Dollars,25620,2021,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Indirect taxes,Financial performance,Thousand Dollars,6673,2020,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Indirect taxes,Financial performance,Thousand Dollars,7259,2021,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Depreciation,Financial performance,Thousand Dollars,7905,2020,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Depreciation,Financial performance,Thousand Dollars,8013,2021,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Salaries and wages paid,Financial performance,Thousand Dollars,32425,2020,1 and 2 and 3 and 4 and 6
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Salaries and wages paid,Financial performance,Thousand Dollars,30370,2021,1 and 2 and 3 and 4 and 6
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Purchases and other operating expenses,Financial performance,Thousand Dollars,137886,2020,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Purchases and other operating expenses,Financial performance,Thousand Dollars,119750,2021,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Non-operating expenses,Financial performance,Thousand Dollars,30793,2020,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Non-operating expenses,Financial performance,Thousand Dollars,20576,2021,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Surplus before income tax,Financial performance,Thousand Dollars,128822,2020,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Surplus before income tax,Financial performance,Thousand Dollars,468039,2021,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Total assets,Financial position,Thousand Dollars,5502172,2020,1 and 2 and 3 and 4 and 7
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Total assets,Financial position,Thousand Dollars,6026003,2021,1 and 2 and 3 and 4 and 7
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Current assets,Financial position,Thousand Dollars,279022,2020,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Current assets,Financial position,Thousand Dollars,310428,2021,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Fixed tangible assets,Financial position,Thousand Dollars,3504106,2020,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Fixed tangible assets,Financial position,Thousand Dollars,3939400,2021,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Other assets,Financial position,Thousand Dollars,1719044,2020,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Other assets,Financial position,Thousand Dollars,1776175,2021,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Total equity and liabilities,Financial position,Thousand Dollars,5502172,2020,1 and 2 and 3 and 4 and 7
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Total equity and liabilities,Financial position,Thousand Dollars,6026003,2021,1 and 2 and 3 and 4 and 7
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Shareholders funds or owners equity,Financial position,Thousand Dollars,4168291,2020,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Shareholders funds or owners equity,Financial position,Thousand Dollars,4603779,2021,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Current liabilities,Financial position,Thousand Dollars,199100,2020,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Current liabilities,Financial position,Thousand Dollars,213253,2021,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Other liabilities,Financial position,Thousand Dollars,1134781,2020,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Other liabilities,Financial position,Thousand Dollars,1208971,2021,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Total income per employee count,Financial ratios,Dollars,1638172,2020,1 and 2 and 3 and 4 and 8
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Total income per employee count,Financial ratios,Dollars,2670531,2021,1 and 2 and 3 and 4 and 8
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Surplus per employee count,Financial ratios,Dollars,578808,2020,1 and 2 and 3 and 4 and 8
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Surplus per employee count,Financial ratios,Dollars,1808332,2021,1 and 2 and 3 and 4 and 8
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Current ratio,Financial ratios,Percent,140.1,2020,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Current ratio,Financial ratios,Percent,145.6,2021,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Quick ratio,Financial ratios,Percent,128.3,2020,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Quick ratio,Financial ratios,Percent,138.8,2021,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Return on equity,Financial ratios,Percent,3.1,2020,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Return on equity,Financial ratios,Percent,10.2,2021,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Return on total assets,Financial ratios,Percent,2.3,2020,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Return on total assets,Financial ratios,Percent,7.8,2021,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Liabilities structure,Financial ratios,Percent,75.8,2020,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Liabilities structure,Financial ratios,Percent,76.4,2021,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Debt to equity ratio,Financial ratios,Percent,32,2020,1 and 2 and 3 and 4
+Table 9,Financials - Maori authorities: Non-residential property operators,ANZSIC06 class L6712,Debt to equity ratio,Financial ratios,Percent,30.9,2021,1 and 2 and 3 and 4
+Table 10,Worker turnover rates,By business type,NA,Maori authorities,Ratio,13.3,2020_03,1 and 2
+Table 10,Worker turnover rates,By business type,NA,Other Maori enterprises,Ratio,20.1,2020_03,1 and 3
+Table 10,Worker turnover rates,By business type,NA,Maori tourism,Ratio,20.6,2020_03,1 and 4
+Table 10,Worker turnover rates,By business type,NA,All New Zealand businesses,Ratio,16.3,2020_03,1
+Table 10,Worker turnover rates,By business type,NA,Maori authorities,Ratio,12.4,2020_06,1 and 2
+Table 10,Worker turnover rates,By business type,NA,Other Maori enterprises,Ratio,16.9,2020_06,1 and 3
+Table 10,Worker turnover rates,By business type,NA,Maori tourism,Ratio,18.9,2020_06,1 and 4
+Table 10,Worker turnover rates,By business type,NA,All New Zealand businesses,Ratio,13.4,2020_06,1
+Table 10,Worker turnover rates,By business type,NA,Maori authorities,Ratio,15,2020_09,1 and 2
+Table 10,Worker turnover rates,By business type,NA,Other Maori enterprises,Ratio,18.2,2020_09,1 and 3
+Table 10,Worker turnover rates,By business type,NA,Maori tourism,Ratio,22,2020_09,1 and 4
+Table 10,Worker turnover rates,By business type,NA,All New Zealand businesses,Ratio,12.6,2020_09,1
+Table 10,Worker turnover rates,By business type,NA,Maori authorities,Ratio,15.9,2020_12,1 and 2
+Table 10,Worker turnover rates,By business type,NA,Other Maori enterprises,Ratio,18.1,2020_12,1 and 3
+Table 10,Worker turnover rates,By business type,NA,Maori tourism,Ratio,23.5,2020_12,1 and 4
+Table 10,Worker turnover rates,By business type,NA,All New Zealand businesses,Ratio,13.1,2020_12,1
+Table 10,Worker turnover rates,By business type,NA,Maori authorities,Ratio,14,2021_03,1 and 2
+Table 10,Worker turnover rates,By business type,NA,Other Maori enterprises,Ratio,18.4,2021_03,1 and 3
+Table 10,Worker turnover rates,By business type,NA,Maori tourism,Ratio,18.9,2021_03,1 and 4
+Table 10,Worker turnover rates,By business type,NA,All New Zealand businesses,Ratio,14.1,2021_03,1
+Table 11,Filled jobs,By business type,NA,Maori authorities,Filled Jobs,10930,2020_03,1 and 2
+Table 11,Filled jobs,By business type,NA,Other Maori enterprises,Filled Jobs,9160,2020_03,1 and 3
+Table 11,Filled jobs,By business type,NA,Maori tourism,Filled Jobs,1980,2020_03,1 and 4
+Table 11,Filled jobs,By business type,NA,Maori authorities,Filled Jobs,10510,2020_06,1 and 2
+Table 11,Filled jobs,By business type,NA,Other Maori enterprises,Filled Jobs,8690,2020_06,1 and 3
+Table 11,Filled jobs,By business type,NA,Maori tourism,Filled Jobs,1700,2020_06,1 and 4
+Table 11,Filled jobs,By business type,NA,Maori authorities,Filled Jobs,10520,2020_09,1 and 2
+Table 11,Filled jobs,By business type,NA,Other Maori enterprises,Filled Jobs,8550,2020_09,1 and 3
+Table 11,Filled jobs,By business type,NA,Maori tourism,Filled Jobs,1440,2020_09,1 and 4
+Table 11,Filled jobs,By business type,NA,Maori authorities,Filled Jobs,10620,2020_12,1 and 2
+Table 11,Filled jobs,By business type,NA,Other Maori enterprises,Filled Jobs,8810,2020_12,1 and 3
+Table 11,Filled jobs,By business type,NA,Maori tourism,Filled Jobs,1380,2020_12,1 and 4
+Table 11,Filled jobs,By business type,NA,Maori authorities,Filled Jobs,10550,2021_03,1 and 2
+Table 11,Filled jobs,By business type,NA,Other Maori enterprises,Filled Jobs,8910,2021_03,1 and 3
+Table 11,Filled jobs,By business type,NA,Maori tourism,Filled Jobs,1380,2021_03,1 and 4
+Table 12,Goods exports,By business type,By selected country: People's Republic of China,Maori authorities,Million Dollars,300,2020,1 and 2 and 3 and 4
+Table 12,Goods exports,By business type,By selected country: People's Republic of China,Maori authorities,Million Dollars,384,2021,1 and 2 and 3 and 4
+Table 12,Goods exports,By business type,By selected country: People's Republic of China,Maori authorities,Percent of total business type,44,2021,1 and 2 and 3 and 4
+Table 12,Goods exports,By business type,By selected country: US,Maori authorities,Million Dollars,45,2020,1 and 2 and 3 and 4
+Table 12,Goods exports,By business type,By selected country: US,Maori authorities,Million Dollars,45,2021,1 and 2 and 3 and 4
+Table 12,Goods exports,By business type,By selected country: US,Maori authorities,Percent of total business type,5,2021,1 and 2 and 3 and 4
+Table 12,Goods exports,By business type,By selected country: Vietnam,Maori authorities,Million Dollars,26,2020,1 and 2 and 3 and 4
+Table 12,Goods exports,By business type,By selected country: Vietnam,Maori authorities,Million Dollars,15,2021,1 and 2 and 3 and 4
+Table 12,Goods exports,By business type,By selected country: Vietnam,Maori authorities,Percent of total business type,2,2021,1 and 2 and 3 and 4
+Table 12,Goods exports,By business type,By selected country: Other,Maori authorities,Million Dollars,350,2020,1 and 2 and 3 and 4
+Table 12,Goods exports,By business type,By selected country: Other,Maori authorities,Million Dollars,429,2021,1 and 2 and 3 and 4
+Table 12,Goods exports,By business type,By selected country: Other,Maori authorities,Percent of total business type,49,2021,1 and 2 and 3 and 4
+Table 12,Goods exports,By business type,"By commodity (HS code): Milk powder, butter and cheese",Maori authorities,Million Dollars,153,2020,1 and 2 and 3 and 5
+Table 12,Goods exports,By business type,"By commodity (HS code): Milk powder, butter and cheese",Maori authorities,Million Dollars,207,2021,1 and 2 and 3 and 5
+Table 12,Goods exports,By business type,"By commodity (HS code): Milk powder, butter and cheese",Maori authorities,Percent of total business type,24,2021,1 and 2 and 3 and 5
+Table 12,Goods exports,By business type,By commodity (HS code): All other,Maori authorities,Million Dollars,568,2020,1 and 2 and 3 and 5
+Table 12,Goods exports,By business type,By commodity (HS code): All other,Maori authorities,Million Dollars,665,2021,1 and 2 and 3 and 5
+Table 12,Goods exports,By business type,By commodity (HS code): All other,Maori authorities,Percent of total business type,76,2021,1 and 2 and 3 and 5
+Table 12,Goods exports,By business type,Total,Maori authorities,Million Dollars,721,2020,1 and 2 and 3
+Table 12,Goods exports,By business type,Total,Maori authorities,Million Dollars,872,2021,1 and 2 and 3
+Table 12,Goods exports,By business type,Total,Maori authorities,Percent of total business type,100,2021,1 and 2 and 3
+Table 12,Goods exports,By business type,By selected country: Australia,Other Maori enterprises,Million Dollars,9,2020,1 and 2 and 4 and 6
+Table 12,Goods exports,By business type,By selected country: Australia,Other Maori enterprises,Million Dollars,12,2021,1 and 2 and 4 and 6
+Table 12,Goods exports,By business type,By selected country: Australia,Other Maori enterprises,Percent of total business type,5,2021,1 and 2 and 4 and 6
+Table 12,Goods exports,By business type,By selected country: Other,Other Maori enterprises,Million Dollars,192,2020,1 and 2 and 4 and 6
+Table 12,Goods exports,By business type,By selected country: Other,Other Maori enterprises,Million Dollars,212,2021,1 and 2 and 4 and 6
+Table 12,Goods exports,By business type,By selected country: Other,Other Maori enterprises,Percent of total business type,95,2021,1 and 2 and 4 and 6
+Table 12,Goods exports,By business type,Total,Other Maori enterprises,Million Dollars,202,2020,1 and 2 and 6
+Table 12,Goods exports,By business type,Total,Other Maori enterprises,Million Dollars,223,2021,1 and 2 and 6
+Table 12,Goods exports,By business type,Total,Other Maori enterprises,Percent of total business type,100,2021,1 and 2 and 6
+Table 13,Goods exporting enterprises,By business type,Maori authority,NA,Counts,13,2020,1
+Table 13,Goods exporting enterprises,By business type,Maori authority,NA,Counts,12,2021,1
+Table 13,Goods exporting enterprises,By business type,Other Maori enterprises,NA,Counts,49,2020,2
+Table 13,Goods exporting enterprises,By business type,Other Maori enterprises,NA,Counts,44,2021,2
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Grassland,Maori farms total,Hectares,219300,At 30 June 2021,
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Grassland,New Zealand total farms,Hectares,7351900,At 30 June 2021,
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Grassland,Maori farms share of NZ total,Percent,3,At 30 June 2021,1 and 2
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Grassland,Average per Maori farm,Hectares,569,At 30 June 2021,1 and 2
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Grassland,Average per NZ farm,Hectares,148,At 30 June 2021,1 and 2
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Horticulture land,Maori farms total,Hectares,3500,At 30 June 2021,
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Horticulture land,New Zealand total farms,Hectares,129200,At 30 June 2021,
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Horticulture land,Maori farms share of NZ total,Percent,2.7,At 30 June 2021,1 and 2
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Horticulture land,Average per Maori farm,Hectares,9,At 30 June 2021,1 and 2
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Horticulture land,Average per NZ farm,Hectares,3,At 30 June 2021,1 and 2
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Plantation,Maori farms total,Hectares,126100,At 30 June 2021,3
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Plantation,New Zealand total farms,Hectares,1633400,At 30 June 2021,3
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Plantation,Maori farms share of NZ total,Percent,7.7,At 30 June 2021,1 and 2 and 3
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Plantation,Average per Maori farm,Hectares,327,At 30 June 2021,1 and 2 and 3
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Plantation,Average per NZ farm,Hectares,33,At 30 June 2021,1 and 2 and 3
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Bush and scrub,Maori farms total,Hectares,85100,At 30 June 2021,
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Bush and scrub,New Zealand total farms,Hectares,1157500,At 30 June 2021,
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Bush and scrub,Maori farms share of NZ total,Percent,7.3,At 30 June 2021,1 and 2
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Bush and scrub,Average per Maori farm,Hectares,221,At 30 June 2021,1 and 2
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Bush and scrub,Average per NZ farm,Hectares,23,At 30 June 2021,1 and 2
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,All other land,Maori farms total,Hectares,54900,At 30 June 2021,4
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,All other land,New Zealand total farms,Hectares,3044300,At 30 June 2021,4
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,All other land,Maori farms share of NZ total,Percent,1.8,At 30 June 2021,1 and 2 and 4
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,All other land,Average per Maori farm,Hectares,142,At 30 June 2021,1 and 2 and 4
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,All other land,Average per NZ farm,Hectares,61,At 30 June 2021,1 and 2 and 4
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Total land area,Maori farms total,Hectares,488900,At 30 June 2021,5
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Total land area,New Zealand total farms,Hectares,13316400,At 30 June 2021,5
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Total land area,Maori farms share of NZ total,Percent,3.7,At 30 June 2021,1 and 2 and 5
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Total land area,Average per Maori farm,Hectares,1269,At 30 June 2021,1 and 2 and 5
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Total land area,Average per NZ farm,Hectares,267,At 30 June 2021,1 and 2 and 5
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Supplementary feed crops harvested,Maori farms total,Hectares,18300,During year ended 30 June 2021,6
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Supplementary feed crops harvested,New Zealand total farms,Hectares,1270500,During year ended 30 June 2021,6
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Supplementary feed crops harvested,Maori farms share of NZ total,Percent,1.4,During year ended 30 June 2021,1 and 2 and 6
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Supplementary feed crops harvested,Average per Maori farm,Hectares,47,During year ended 30 June 2021,1 and 2 and 6
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Supplementary feed crops harvested,Average per NZ farm,Hectares,26,During year ended 30 June 2021,1 and 2 and 6
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Stock units,Maori farms total,Number,2160600,At 30 June 2021,7
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Stock units,New Zealand total farms,Number,84875300,At 30 June 2021,7
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Stock units,Maori farms share of NZ total,Percent,2.5,At 30 June 2021,1 and 2 and 7
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Stock units,Average per Maori farm,Number,5609,At 30 June 2021,1 and 2 and 7
+Table 14,"Land use, stock units, and supplementary feed",By type of land use,Stock units,Average per NZ farm,Number,1705,At 30 June 2021,1 and 2 and 7
+Table 15,Selected livestock numbers,By type of animal,Total sheep,Maori farms total,Number,888000,At 30 June 2021,
+Table 15,Selected livestock numbers,By type of animal,Total sheep,New Zealand total farms,Number,25732900,At 30 June 2021,
+Table 15,Selected livestock numbers,By type of animal,Total sheep,Maori farms share of NZ total,Percent,3.5,At 30 June 2021,1
+Table 15,Selected livestock numbers,By type of animal,Total sheep,Average per Maori farm,Number,7087,At 30 June 2021,1 and 2
+Table 15,Selected livestock numbers,By type of animal,Total sheep,Average per NZ farm,Number,1528,At 30 June 2021,1 and 2
+Table 15,Selected livestock numbers,By type of animal,Total beef cattle,Maori farms total,Number,147800,At 30 June 2021,
+Table 15,Selected livestock numbers,By type of animal,Total beef cattle,New Zealand total farms,Number,3964800,At 30 June 2021,
+Table 15,Selected livestock numbers,By type of animal,Total beef cattle,Maori farms share of NZ total,Percent,3.7,At 30 June 2021,1
+Table 15,Selected livestock numbers,By type of animal,Total beef cattle,Average per Maori farm,Number,1039,At 30 June 2021,1 and 2
+Table 15,Selected livestock numbers,By type of animal,Total beef cattle,Average per NZ farm,Number,171,At 30 June 2021,1 and 2
+Table 15,Selected livestock numbers,By type of animal,Total dairy cattle,Maori farms total,Number,87900,At 30 June 2021,3
+Table 15,Selected livestock numbers,By type of animal,Total dairy cattle,New Zealand total farms,Number,6185400,At 30 June 2021,3
+Table 15,Selected livestock numbers,By type of animal,Total dairy cattle,Maori farms share of NZ total,Percent,1.4,At 30 June 2021,1 and 3
+Table 15,Selected livestock numbers,By type of animal,Total dairy cattle,Average per Maori farm,Number,947,At 30 June 2021,1 and 2 and 3
+Table 15,Selected livestock numbers,By type of animal,Total dairy cattle,Average per NZ farm,Number,478,At 30 June 2021,1 and 2 and 3
+Table 15,Selected livestock numbers,By type of animal,Total deer,Maori farms total,Number,2800,At 30 June 2021,
+Table 15,Selected livestock numbers,By type of animal,Total deer,New Zealand total farms,Number,814000,At 30 June 2021,
+Table 15,Selected livestock numbers,By type of animal,Total deer,Maori farms share of NZ total,Percent,0.3,At 30 June 2021,1
+Table 15,Selected livestock numbers,By type of animal,Total deer,Average per Maori farm,Number,329,At 30 June 2021,1 and 2
+Table 15,Selected livestock numbers,By type of animal,Total deer,Average per NZ farm,Number,664,At 30 June 2021,1 and 2
+Table 15,Selected livestock numbers,By type of animal,Breeding ewes and hoggets,Maori farms total,Number,649200,At 30 June 2021,
+Table 15,Selected livestock numbers,By type of animal,Breeding ewes and hoggets,New Zealand total farms,Number,18190100,At 30 June 2021,
+Table 15,Selected livestock numbers,By type of animal,Breeding ewes and hoggets,Maori farms share of NZ total,Percent,3.6,At 30 June 2021,1
+Table 15,Selected livestock numbers,By type of animal,Breeding ewes and hoggets,Average per Maori farm,Number,5869,At 30 June 2021,1 and 2
+Table 15,Selected livestock numbers,By type of animal,Breeding ewes and hoggets,Average per NZ farm,Number,1242,At 30 June 2021,1 and 2
+Table 15,Selected livestock numbers,By type of animal,Beef breeding cows and heifers,Maori farms total,Number,57000,At 30 June 2021,
+Table 15,Selected livestock numbers,By type of animal,Beef breeding cows and heifers,New Zealand total farms,Number,1067100,At 30 June 2021,
+Table 15,Selected livestock numbers,By type of animal,Beef breeding cows and heifers,Maori farms share of NZ total,Percent,5.3,At 30 June 2021,1
+Table 15,Selected livestock numbers,By type of animal,Beef breeding cows and heifers,Average per Maori farm,Number,579,At 30 June 2021,1 and 2
+Table 15,Selected livestock numbers,By type of animal,Beef breeding cows and heifers,Average per NZ farm,Number,107,At 30 June 2021,1 and 2
+Table 15,Selected livestock numbers,By type of animal,Milking cows and heifers,Maori farms total,Number,72100,At 30 June 2021,
+Table 15,Selected livestock numbers,By type of animal,Milking cows and heifers,New Zealand total farms,Number,4804600,At 30 June 2021,
+Table 15,Selected livestock numbers,By type of animal,Milking cows and heifers,Maori farms share of NZ total,Percent,1.5,At 30 June 2021,1
+Table 15,Selected livestock numbers,By type of animal,Milking cows and heifers,Average per Maori farm,Number,901,At 30 June 2021,1 and 2
+Table 15,Selected livestock numbers,By type of animal,Milking cows and heifers,Average per NZ farm,Number,440,At 30 June 2021,1 and 2
+Table 15,Selected livestock numbers,By type of animal,Total lambs tailed during the year,Maori farms total,Number,818700,During year ended 30 June 2021,
+Table 15,Selected livestock numbers,By type of animal,Total lambs tailed during the year,New Zealand total farms,Number,22907400,During year ended 30 June 2021,
+Table 15,Selected livestock numbers,By type of animal,Total lambs tailed during the year,Maori farms share of NZ total,Percent,3.6,During year ended 30 June 2021,1
+Table 15,Selected livestock numbers,By type of animal,Total lambs tailed during the year,Average per Maori farm,Number,6834,During year ended 30 June 2021,1 and 2
+Table 15,Selected livestock numbers,By type of animal,Total lambs tailed during the year,Average per NZ farm,Number,1455,During year ended 30 June 2021,1 and 2
+Table 16,Selected farm practices,By farm practice,Tonnes of fertiliser applied,Maori farms total,Number,44400,During year ended 30 June 2022,1 and 3
+Table 16,Selected farm practices,By farm practice,Tonnes of fertiliser applied,New Zealand total farms,Number,1924000,During year ended 30 June 2023,1 and 3
+Table 16,Selected farm practices,By farm practice,Tonnes of fertiliser applied,Maori farms share of NZ total,Number,2.3,During year ended 30 June 2024,1 and 2 and 3
+Table 16,Selected farm practices,By farm practice,Tonnes of fertiliser applied,Average per hectare of grassland on Maori farms,Number,0.2,During year ended 30 June 2025,1 and 2 and 3
+Table 16,Selected farm practices,By farm practice,Tonnes of fertiliser applied,Average per hectare of grassland on New Zealand farms,Percent,0.26,During year ended 30 June 2026,1 and 2 and 3
+Table 16,Selected farm practices,By farm practice,Tonnes of lime and dolomite applied,Maori farms total,Percent,8500,During year ended 30 June 2027,1
+Table 16,Selected farm practices,By farm practice,Tonnes of lime and dolomite applied,New Zealand total farms,Number,979100,During year ended 30 June 2028,1
+Table 16,Selected farm practices,By farm practice,Tonnes of lime and dolomite applied,Maori farms share of NZ total,Number,0.9,During year ended 30 June 2029,1 and 2
+Table 16,Selected farm practices,By farm practice,Tonnes of lime and dolomite applied,Average per hectare of grassland on Maori farms,Number,0.04,During year ended 30 June 2030,1 and 2
+Table 16,Selected farm practices,By farm practice,Tonnes of lime and dolomite applied,Average per hectare of grassland on New Zealand farms,Number,0.13,During year ended 30 June 2031,1 and 2
+Table 17,Selected business activities,By activity,Export sales,Maori authorities,Percent,36,2020,1 and 2 and 4 and 5
+Table 17,Selected business activities,By activity,Tourism sales,Maori authorities,Percent,29,2020,1 and 2 and 4
+Table 17,Selected business activities,By activity,Investment in expansion,Maori authorities,Percent,43,2020,1 and 2 and 4
+Table 17,Selected business activities,By activity,Research and development,Maori authorities,Percent,21,2020,1 and 2 and 4
+Table 17,Selected business activities,By activity,Export sales,Other Maori enterprises,Percent,24,2020,1 and 2 and 5 and 6
+Table 17,Selected business activities,By activity,Tourism sales,Other Maori enterprises,Percent,18,2020,1 and 2 and 6
+Table 17,Selected business activities,By activity,Investment in expansion,Other Maori enterprises,Percent,41,2020,1 and 2 and 6
+Table 17,Selected business activities,By activity,Research and development,Other Maori enterprises,Percent,11,2020,1 and 2 and 6
+Table 17,Selected business activities,By activity,Export sales,All New Zealand businesses,Percent,24,2020,1 and 2 and 5 and 7
+Table 17,Selected business activities,By activity,Tourism sales,All New Zealand businesses,Percent,27,2020,1 and 2 and 7
+Table 17,Selected business activities,By activity,Investment in expansion,All New Zealand businesses,Percent,31,2020,1 and 2 and 7
+Table 17,Selected business activities,By activity,Research and development,All New Zealand businesses,Percent,8,2020,1 and 2 and 7
+Table 17,Selected business activities,By activity,Export sales,Maori authorities,Percent,25,2021,1 and 2 and 3 and 4 and 5
+Table 17,Selected business activities,By activity,Tourism sales,Maori authorities,Percent,17,2021,1 and 2 and 3 and 4
+Table 17,Selected business activities,By activity,Investment in expansion,Maori authorities,Percent,28,2021,1 and 2 and 3 and 4
+Table 17,Selected business activities,By activity,Research and development,Maori authorities,Percent,9,2021,1 and 2 and 3 and 4
+Table 17,Selected business activities,By activity,Export sales,Other Maori enterprises,Percent,19,2021,1 and 2 and 3 and 5 and 6
+Table 17,Selected business activities,By activity,Tourism sales,Other Maori enterprises,Percent,12,2021,1 and 2 and 3 and 6
+Table 17,Selected business activities,By activity,Investment in expansion,Other Maori enterprises,Percent,41,2021,1 and 2 and 3 and 6
+Table 17,Selected business activities,By activity,Research and development,Other Maori enterprises,Percent,16,2021,1 and 2 and 3 and 6
+Table 17,Selected business activities,By activity,Export sales,All New Zealand businesses,Percent,21,2021,1 and 2 and 3 and 5 and 7
+Table 17,Selected business activities,By activity,Tourism sales,All New Zealand businesses,Percent,20,2021,1 and 2 and 3 and 7
+Table 17,Selected business activities,By activity,Investment in expansion,All New Zealand businesses,Percent,30,2021,1 and 2 and 3 and 7
+Table 17,Selected business activities,By activity,Research and development,All New Zealand businesses,Percent,10,2021,1 and 2 and 3 and 7
+Table 18,Businesses that innovated,By business type,Goods,Maori authorities,Percent,13,2021,1 and 2 and 3 and 4 and 5
+Table 18,Businesses that innovated,By business type,Operational,Maori authorities,Percent,20,2021,1 and 2 and 3 and 4 and 5
+Table 18,Businesses that innovated,By business type,Organisational,Maori authorities,Percent,30,2021,1 and 2 and 3 and 4 and 5
+Table 18,Businesses that innovated,By business type,Marketing,Maori authorities,Percent,11,2021,1 and 2 and 3 and 4 and 5
+Table 18,Businesses that innovated,By business type,Total innovation rate,Maori authorities,Percent,43,2021,1 and 2 and 3 and 4 and 5 and 6
+Table 18,Businesses that innovated,By business type,Goods,Other Maori enterprises,Percent,25,2021,1 and 2 and 3 and 4 and 7
+Table 18,Businesses that innovated,By business type,Operational,Other Maori enterprises,Percent,31,2021,1 and 2 and 3 and 4 and 7
+Table 18,Businesses that innovated,By business type,Organisational,Other Maori enterprises,Percent,37,2021,1 and 2 and 3 and 4 and 7
+Table 18,Businesses that innovated,By business type,Marketing,Other Maori enterprises,Percent,22,2021,1 and 2 and 3 and 4 and 7
+Table 18,Businesses that innovated,By business type,Total innovation rate,Other Maori enterprises,Percent,58,2021,1 and 2 and 3 and 4 and 6 and 7
+Table 18,Businesses that innovated,By business type,Goods,All New Zealand businesses,Percent,18,2021,1 and 2 and 3 and 4 and 8
+Table 18,Businesses that innovated,By business type,Operational,All New Zealand businesses,Percent,21,2021,1 and 2 and 3 and 4 and 8
+Table 18,Businesses that innovated,By business type,Organisational,All New Zealand businesses,Percent,22,2021,1 and 2 and 3 and 4 and 8
+Table 18,Businesses that innovated,By business type,Marketing,All New Zealand businesses,Percent,21,2021,1 and 2 and 3 and 4 and 8
+Table 18,Businesses that innovated,By business type,Total innovation rate,All New Zealand businesses,Percent,46,2021,1 and 2 and 3 and 4 and 6 and 8
+Table 19,Businesses with product development and related activities expenditure,By business type,Research and development,Maori authorities,Percent,11,2021,1 and 2 and 3
+Table 19,Businesses with product development and related activities expenditure,By business type,Design,Maori authorities,Percent,7,2021,1 and 2 and 3
+Table 19,Businesses with product development and related activities expenditure,By business type,Marketing,Maori authorities,Percent,9,2021,1 and 2 and 3
+Table 19,Businesses with product development and related activities expenditure,By business type,Other,Maori authorities,Percent,11,2021,1 and 2 and 3
+Table 19,Businesses with product development and related activities expenditure,By business type,Total product development and related activities,Maori authorities,Percent,22,2021,1 and 2 and 3
+Table 19,Businesses with product development and related activities expenditure,By business type,Research and development,Other Maori enterprises,Percent,17,2021,1 and 2 and 4
+Table 19,Businesses with product development and related activities expenditure,By business type,Design,Other Maori enterprises,Percent,17,2021,1 and 2 and 4
+Table 19,Businesses with product development and related activities expenditure,By business type,Marketing,Other Maori enterprises,Percent,10,2021,1 and 2 and 4
+Table 19,Businesses with product development and related activities expenditure,By business type,Other,Other Maori enterprises,Percent,14,2021,1 and 2 and 4
+Table 19,Businesses with product development and related activities expenditure,By business type,Total product development and related activities,Other Maori enterprises,Percent,29,2021,1 and 2 and 4
+Table 19,Businesses with product development and related activities expenditure,By business type,Research and development,All New Zealand businesses,Percent,10,2021,1 and 2 and 5
+Table 19,Businesses with product development and related activities expenditure,By business type,Design,All New Zealand businesses,Percent,14,2021,1 and 2 and 5
+Table 19,Businesses with product development and related activities expenditure,By business type,Marketing,All New Zealand businesses,Percent,13,2021,1 and 2 and 5
+Table 19,Businesses with product development and related activities expenditure,By business type,Other,All New Zealand businesses,Percent,11,2021,1 and 2 and 5
+Table 19,Businesses with product development and related activities expenditure,By business type,Total product development and related activities,All New Zealand businesses,Percent,27,2021,1 and 2 and 5
+Table 20,Barriers to innovation,Maori authorities,Cost to develop or introduce,Barrier affected innovation to high degree,Percent,17,2021,1 and 2 and 3
+Table 20,Barriers to innovation,Maori authorities,Lack of information,Barrier affected innovation to high degree,Percent,5,2021,1 and 2 and 3
+Table 20,Barriers to innovation,Maori authorities,Lack of marketing expertise,Barrier affected innovation to high degree,Percent,3,2021,1 and 2 and 3
+Table 20,Barriers to innovation,Maori authorities,Lack of cooperation with other businesses,Barrier affected innovation to high degree,Percent,3,2021,1 and 2 and 3
+Table 20,Barriers to innovation,Maori authorities,Access to intellectual property rights,Barrier affected innovation to high degree,Percent,1,2021,1 and 2 and 3
+Table 20,Barriers to innovation,Maori authorities,Lack of appropriate personnel,Barrier affected innovation to high degree,Percent,11,2021,1 and 2 and 3
+Table 20,Barriers to innovation,Maori authorities,Lack of management resources,Barrier affected innovation to high degree,Percent,15,2021,1 and 2 and 3
+Table 20,Barriers to innovation,Maori authorities,Government regulation,Barrier affected innovation to high degree,Percent,6,2021,1 and 2 and 3
+Table 20,Barriers to innovation,Maori authorities,Cost to develop or introduce,Barrier affected innovation to medium degree,Percent,17,2021,1 and 2 and 3
+Table 20,Barriers to innovation,Maori authorities,Lack of information,Barrier affected innovation to medium degree,Percent,17,2021,1 and 2 and 3
+Table 20,Barriers to innovation,Maori authorities,Lack of marketing expertise,Barrier affected innovation to medium degree,Percent,12,2021,1 and 2 and 3
+Table 20,Barriers to innovation,Maori authorities,Lack of cooperation with other businesses,Barrier affected innovation to medium degree,Percent,9,2021,1 and 2 and 3
+Table 20,Barriers to innovation,Maori authorities,Access to intellectual property rights,Barrier affected innovation to medium degree,Percent,3,2021,1 and 2 and 3
+Table 20,Barriers to innovation,Maori authorities,Lack of appropriate personnel,Barrier affected innovation to medium degree,Percent,19,2021,1 and 2 and 3
+Table 20,Barriers to innovation,Maori authorities,Lack of management resources,Barrier affected innovation to medium degree,Percent,22,2021,1 and 2 and 3
+Table 20,Barriers to innovation,Maori authorities,Government regulation,Barrier affected innovation to medium degree,Percent,11,2021,1 and 2 and 3
+Table 20,Barriers to innovation,Maori authorities,Cost to develop or introduce,Barrier affected innovation to low degree,Percent,21,2021,1 and 2 and 3
+Table 20,Barriers to innovation,Maori authorities,Lack of information,Barrier affected innovation to low degree,Percent,22,2021,1 and 2 and 3
+Table 20,Barriers to innovation,Maori authorities,Lack of marketing expertise,Barrier affected innovation to low degree,Percent,23,2021,1 and 2 and 3
+Table 20,Barriers to innovation,Maori authorities,Lack of cooperation with other businesses,Barrier affected innovation to low degree,Percent,19,2021,1 and 2 and 3
+Table 20,Barriers to innovation,Maori authorities,Access to intellectual property rights,Barrier affected innovation to low degree,Percent,19,2021,1 and 2 and 3
+Table 20,Barriers to innovation,Maori authorities,Lack of appropriate personnel,Barrier affected innovation to low degree,Percent,22,2021,1 and 2 and 3
+Table 20,Barriers to innovation,Maori authorities,Lack of management resources,Barrier affected innovation to low degree,Percent,21,2021,1 and 2 and 3
+Table 20,Barriers to innovation,Maori authorities,Government regulation,Barrier affected innovation to low degree,Percent,25,2021,1 and 2 and 3
+Table 20,Barriers to innovation,Maori authorities,Cost to develop or introduce,Did not hamper innovation,Percent,46,2021,1 and 2 and 3
+Table 20,Barriers to innovation,Maori authorities,Lack of information,Did not hamper innovation,Percent,56,2021,1 and 2 and 3
+Table 20,Barriers to innovation,Maori authorities,Lack of marketing expertise,Did not hamper innovation,Percent,62,2021,1 and 2 and 3
+Table 20,Barriers to innovation,Maori authorities,Lack of cooperation with other businesses,Did not hamper innovation,Percent,69,2021,1 and 2 and 3
+Table 20,Barriers to innovation,Maori authorities,Access to intellectual property rights,Did not hamper innovation,Percent,77,2021,1 and 2 and 3
+Table 20,Barriers to innovation,Maori authorities,Lack of appropriate personnel,Did not hamper innovation,Percent,48,2021,1 and 2 and 3
+Table 20,Barriers to innovation,Maori authorities,Lack of management resources,Did not hamper innovation,Percent,42,2021,1 and 2 and 3
+Table 20,Barriers to innovation,Maori authorities,Government regulation,Did not hamper innovation,Percent,58,2021,1 and 2 and 3
+Table 20,Barriers to innovation,Other Maori enterprises,Cost to develop or introduce,Barrier affected innovation to high degree,Percent,22,2021,1 and 2 and 4
+Table 20,Barriers to innovation,Other Maori enterprises,Lack of information,Barrier affected innovation to high degree,Percent,3,2021,1 and 2 and 4
+Table 20,Barriers to innovation,Other Maori enterprises,Lack of marketing expertise,Barrier affected innovation to high degree,Percent,7,2021,1 and 2 and 4
+Table 20,Barriers to innovation,Other Maori enterprises,Lack of cooperation with other businesses,Barrier affected innovation to high degree,Percent,3,2021,1 and 2 and 4
+Table 20,Barriers to innovation,Other Maori enterprises,Access to intellectual property rights,Barrier affected innovation to high degree,Percent,C,2021,1 and 2 and 4
+Table 20,Barriers to innovation,Other Maori enterprises,Lack of appropriate personnel,Barrier affected innovation to high degree,Percent,14,2021,1 and 2 and 4
+Table 20,Barriers to innovation,Other Maori enterprises,Lack of management resources,Barrier affected innovation to high degree,Percent,19,2021,1 and 2 and 4
+Table 20,Barriers to innovation,Other Maori enterprises,Government regulation,Barrier affected innovation to high degree,Percent,12,2021,1 and 2 and 4
+Table 20,Barriers to innovation,Other Maori enterprises,Cost to develop or introduce,Barrier affected innovation to medium degree,Percent,21,2021,1 and 2 and 4
+Table 20,Barriers to innovation,Other Maori enterprises,Lack of information,Barrier affected innovation to medium degree,Percent,12,2021,1 and 2 and 4
+Table 20,Barriers to innovation,Other Maori enterprises,Lack of marketing expertise,Barrier affected innovation to medium degree,Percent,16,2021,1 and 2 and 4
+Table 20,Barriers to innovation,Other Maori enterprises,Lack of cooperation with other businesses,Barrier affected innovation to medium degree,Percent,7,2021,1 and 2 and 4
+Table 20,Barriers to innovation,Other Maori enterprises,Access to intellectual property rights,Barrier affected innovation to medium degree,Percent,3,2021,1 and 2 and 4
+Table 20,Barriers to innovation,Other Maori enterprises,Lack of appropriate personnel,Barrier affected innovation to medium degree,Percent,24,2021,1 and 2 and 4
+Table 20,Barriers to innovation,Other Maori enterprises,Lack of management resources,Barrier affected innovation to medium degree,Percent,26,2021,1 and 2 and 4
+Table 20,Barriers to innovation,Other Maori enterprises,Government regulation,Barrier affected innovation to medium degree,Percent,16,2021,1 and 2 and 4
+Table 20,Barriers to innovation,Other Maori enterprises,Cost to develop or introduce,Barrier affected innovation to low degree,Percent,19,2021,1 and 2 and 4
+Table 20,Barriers to innovation,Other Maori enterprises,Lack of information,Barrier affected innovation to low degree,Percent,24,2021,1 and 2 and 4
+Table 20,Barriers to innovation,Other Maori enterprises,Lack of marketing expertise,Barrier affected innovation to low degree,Percent,22,2021,1 and 2 and 4
+Table 20,Barriers to innovation,Other Maori enterprises,Lack of cooperation with other businesses,Barrier affected innovation to low degree,Percent,24,2021,1 and 2 and 4
+Table 20,Barriers to innovation,Other Maori enterprises,Access to intellectual property rights,Barrier affected innovation to low degree,Percent,19,2021,1 and 2 and 4
+Table 20,Barriers to innovation,Other Maori enterprises,Lack of appropriate personnel,Barrier affected innovation to low degree,Percent,21,2021,1 and 2 and 4
+Table 20,Barriers to innovation,Other Maori enterprises,Lack of management resources,Barrier affected innovation to low degree,Percent,19,2021,1 and 2 and 4
+Table 20,Barriers to innovation,Other Maori enterprises,Government regulation,Barrier affected innovation to low degree,Percent,19,2021,1 and 2 and 4
+Table 20,Barriers to innovation,Other Maori enterprises,Cost to develop or introduce,Did not hamper innovation,Percent,36,2021,1 and 2 and 4
+Table 20,Barriers to innovation,Other Maori enterprises,Lack of information,Did not hamper innovation,Percent,59,2021,1 and 2 and 4
+Table 20,Barriers to innovation,Other Maori enterprises,Lack of marketing expertise,Did not hamper innovation,Percent,59,2021,1 and 2 and 4
+Table 20,Barriers to innovation,Other Maori enterprises,Lack of cooperation with other businesses,Did not hamper innovation,Percent,67,2021,1 and 2 and 4
+Table 20,Barriers to innovation,Other Maori enterprises,Access to intellectual property rights,Did not hamper innovation,Percent,79,2021,1 and 2 and 4
+Table 20,Barriers to innovation,Other Maori enterprises,Lack of appropriate personnel,Did not hamper innovation,Percent,43,2021,1 and 2 and 4
+Table 20,Barriers to innovation,Other Maori enterprises,Lack of management resources,Did not hamper innovation,Percent,34,2021,1 and 2 and 4
+Table 20,Barriers to innovation,Other Maori enterprises,Government regulation,Did not hamper innovation,Percent,55,2021,1 and 2 and 4
+Table 20,Barriers to innovation,All New Zealand businesses,Cost to develop or introduce,Barrier affected innovation to high degree,Percent,20,2021,1 and 2 and 5
+Table 20,Barriers to innovation,All New Zealand businesses,Lack of information,Barrier affected innovation to high degree,Percent,4,2021,1 and 2 and 5
+Table 20,Barriers to innovation,All New Zealand businesses,Lack of marketing expertise,Barrier affected innovation to high degree,Percent,6,2021,1 and 2 and 5
+Table 20,Barriers to innovation,All New Zealand businesses,Lack of cooperation with other businesses,Barrier affected innovation to high degree,Percent,3,2021,1 and 2 and 5
+Table 20,Barriers to innovation,All New Zealand businesses,Access to intellectual property rights,Barrier affected innovation to high degree,Percent,2,2021,1 and 2 and 5
+Table 20,Barriers to innovation,All New Zealand businesses,Lack of appropriate personnel,Barrier affected innovation to high degree,Percent,14,2021,1 and 2 and 5
+Table 20,Barriers to innovation,All New Zealand businesses,Lack of management resources,Barrier affected innovation to high degree,Percent,18,2021,1 and 2 and 5
+Table 20,Barriers to innovation,All New Zealand businesses,Government regulation,Barrier affected innovation to high degree,Percent,10,2021,1 and 2 and 5
+Table 20,Barriers to innovation,All New Zealand businesses,Cost to develop or introduce,Barrier affected innovation to medium degree,Percent,21,2021,1 and 2 and 5
+Table 20,Barriers to innovation,All New Zealand businesses,Lack of information,Barrier affected innovation to medium degree,Percent,12,2021,1 and 2 and 5
+Table 20,Barriers to innovation,All New Zealand businesses,Lack of marketing expertise,Barrier affected innovation to medium degree,Percent,13,2021,1 and 2 and 5
+Table 20,Barriers to innovation,All New Zealand businesses,Lack of cooperation with other businesses,Barrier affected innovation to medium degree,Percent,7,2021,1 and 2 and 5
+Table 20,Barriers to innovation,All New Zealand businesses,Access to intellectual property rights,Barrier affected innovation to medium degree,Percent,5,2021,1 and 2 and 5
+Table 20,Barriers to innovation,All New Zealand businesses,Lack of appropriate personnel,Barrier affected innovation to medium degree,Percent,18,2021,1 and 2 and 5
+Table 20,Barriers to innovation,All New Zealand businesses,Lack of management resources,Barrier affected innovation to medium degree,Percent,21,2021,1 and 2 and 5
+Table 20,Barriers to innovation,All New Zealand businesses,Government regulation,Barrier affected innovation to medium degree,Percent,12,2021,1 and 2 and 5
+Table 20,Barriers to innovation,All New Zealand businesses,Cost to develop or introduce,Barrier affected innovation to low degree,Percent,12,2021,1 and 2 and 5
+Table 20,Barriers to innovation,All New Zealand businesses,Lack of information,Barrier affected innovation to low degree,Percent,21,2021,1 and 2 and 5
+Table 20,Barriers to innovation,All New Zealand businesses,Lack of marketing expertise,Barrier affected innovation to low degree,Percent,18,2021,1 and 2 and 5
+Table 20,Barriers to innovation,All New Zealand businesses,Lack of cooperation with other businesses,Barrier affected innovation to low degree,Percent,17,2021,1 and 2 and 5
+Table 20,Barriers to innovation,All New Zealand businesses,Access to intellectual property rights,Barrier affected innovation to low degree,Percent,12,2021,1 and 2 and 5
+Table 20,Barriers to innovation,All New Zealand businesses,Lack of appropriate personnel,Barrier affected innovation to low degree,Percent,17,2021,1 and 2 and 5
+Table 20,Barriers to innovation,All New Zealand businesses,Lack of management resources,Barrier affected innovation to low degree,Percent,15,2021,1 and 2 and 5
+Table 20,Barriers to innovation,All New Zealand businesses,Government regulation,Barrier affected innovation to low degree,Percent,14,2021,1 and 2 and 5
+Table 20,Barriers to innovation,All New Zealand businesses,Cost to develop or introduce,Did not hamper innovation,Percent,47,2021,1 and 2 and 5
+Table 20,Barriers to innovation,All New Zealand businesses,Lack of information,Did not hamper innovation,Percent,62,2021,1 and 2 and 5
+Table 20,Barriers to innovation,All New Zealand businesses,Lack of marketing expertise,Did not hamper innovation,Percent,63,2021,1 and 2 and 5
+Table 20,Barriers to innovation,All New Zealand businesses,Lack of cooperation with other businesses,Did not hamper innovation,Percent,73,2021,1 and 2 and 5
+Table 20,Barriers to innovation,All New Zealand businesses,Access to intellectual property rights,Did not hamper innovation,Percent,81,2021,1 and 2 and 5
+Table 20,Barriers to innovation,All New Zealand businesses,Lack of appropriate personnel,Did not hamper innovation,Percent,50,2021,1 and 2 and 5
+Table 20,Barriers to innovation,All New Zealand businesses,Lack of management resources,Did not hamper innovation,Percent,46,2021,1 and 2 and 5
+Table 20,Barriers to innovation,All New Zealand businesses,Government regulation,Did not hamper innovation,Percent,65,2021,1 and 2 and 5
+Table 21,Businesses' awareness of the potential impact of climate change,By business type,Very aware,All Maori authorities,Percent,70,2021,1 and 2 and 3
+Table 21,Businesses' awareness of the potential impact of climate change,By business type,Somewhat aware,All Maori authorities,Percent,30,2021,1 and 2 and 3
+Table 21,Businesses' awareness of the potential impact of climate change,By business type,Not aware,All Maori authorities,Percent,C,2021,1 and 2 and 3
+Table 21,Businesses' awareness of the potential impact of climate change,By business type,Don't know,All Maori authorities,Percent,C,2021,1 and 2 and 3
+Table 21,Businesses' awareness of the potential impact of climate change,By business type,Very aware,Maori authorities - primary industries (6-29 employees),Percent,75,2021,1 and 2 and 3
+Table 21,Businesses' awareness of the potential impact of climate change,By business type,Somewhat aware,Maori authorities - primary industries (6-29 employees),Percent,30,2021,1 and 2 and 3
+Table 21,Businesses' awareness of the potential impact of climate change,By business type,Not aware,Maori authorities - primary industries (6-29 employees),Percent,0,2021,1 and 2 and 3
+Table 21,Businesses' awareness of the potential impact of climate change,By business type,Don't know,Maori authorities - primary industries (6-29 employees),Percent,0,2021,1 and 2 and 3
+Table 21,Businesses' awareness of the potential impact of climate change,By business type,Very aware,Maori authorities - primary industries (30 or more employees),Percent,75,2021,1 and 2 and 3
+Table 21,Businesses' awareness of the potential impact of climate change,By business type,Somewhat aware,Maori authorities - primary industries (30 or more employees),Percent,25,2021,1 and 2 and 3
+Table 21,Businesses' awareness of the potential impact of climate change,By business type,Not aware,Maori authorities - primary industries (30 or more employees),Percent,0,2021,1 and 2 and 3
+Table 21,Businesses' awareness of the potential impact of climate change,By business type,Don't know,Maori authorities - primary industries (30 or more employees),Percent,0,2021,1 and 2 and 3
+Table 21,Businesses' awareness of the potential impact of climate change,By business type,Very aware,Maori authorities - other industries (6-29 employees),Percent,63,2021,1 and 2 and 3
+Table 21,Businesses' awareness of the potential impact of climate change,By business type,Somewhat aware,Maori authorities - other industries (6-29 employees),Percent,32,2021,1 and 2 and 3
+Table 21,Businesses' awareness of the potential impact of climate change,By business type,Not aware,Maori authorities - other industries (6-29 employees),Percent,C,2021,1 and 2 and 3
+Table 21,Businesses' awareness of the potential impact of climate change,By business type,Don't know,Maori authorities - other industries (6-29 employees),Percent,C,2021,1 and 2 and 3
+Table 21,Businesses' awareness of the potential impact of climate change,By business type,Very aware,Maori authorities - other industries (30 or more employees),Percent,73,2021,1 and 2 and 3
+Table 21,Businesses' awareness of the potential impact of climate change,By business type,Somewhat aware,Maori authorities - other industries (30 or more employees),Percent,27,2021,1 and 2 and 3
+Table 21,Businesses' awareness of the potential impact of climate change,By business type,Not aware,Maori authorities - other industries (30 or more employees),Percent,0,2021,1 and 2 and 3
+Table 21,Businesses' awareness of the potential impact of climate change,By business type,Don't know,Maori authorities - other industries (30 or more employees),Percent,0,2021,1 and 2 and 3
+Table 21,Businesses' awareness of the potential impact of climate change,By business type,Very aware,Other Maori enterprises,Percent,47,2021,1 and 4
+Table 21,Businesses' awareness of the potential impact of climate change,By business type,Somewhat aware,Other Maori enterprises,Percent,42,2021,1 and 4
+Table 21,Businesses' awareness of the potential impact of climate change,By business type,Not aware,Other Maori enterprises,Percent,5,2021,1 and 4
+Table 21,Businesses' awareness of the potential impact of climate change,By business type,Don't know,Other Maori enterprises,Percent,7,2021,1 and 4
+Table 21,Businesses' awareness of the potential impact of climate change,By business type,Very aware,All New Zealand businesses,Percent,39,2021,1 and 5
+Table 21,Businesses' awareness of the potential impact of climate change,By business type,Somewhat aware,All New Zealand businesses,Percent,45,2021,1 and 5
+Table 21,Businesses' awareness of the potential impact of climate change,By business type,Not aware,All New Zealand businesses,Percent,8,2021,1 and 5
+Table 21,Businesses' awareness of the potential impact of climate change,By business type,Don't know,All New Zealand businesses,Percent,8,2021,1 and 5
+Table 22,Businesses' awareness of government policies and programmes to reduce New Zealand's greenhouse gas emissions,By business type,Very aware,All Maori authorities,Percent,54,2021,1 and 2 and 3
+Table 22,Businesses' awareness of government policies and programmes to reduce New Zealand's greenhouse gas emissions,By business type,Somewhat aware,All Maori authorities,Percent,44,2021,1 and 2 and 3
+Table 22,Businesses' awareness of government policies and programmes to reduce New Zealand's greenhouse gas emissions,By business type,Not aware,All Maori authorities,Percent,C,2021,1 and 2 and 3
+Table 22,Businesses' awareness of government policies and programmes to reduce New Zealand's greenhouse gas emissions,By business type,Don't know,All Maori authorities,Percent,C,2021,1 and 2 and 3
+Table 22,Businesses' awareness of government policies and programmes to reduce New Zealand's greenhouse gas emissions,By business type,Very aware,Maori authorities - primary industries (6-29 employees),Percent,55,2021,1 and 2 and 3
+Table 22,Businesses' awareness of government policies and programmes to reduce New Zealand's greenhouse gas emissions,By business type,Somewhat aware,Maori authorities - primary industries (6-29 employees),Percent,50,2021,1 and 2 and 3
+Table 22,Businesses' awareness of government policies and programmes to reduce New Zealand's greenhouse gas emissions,By business type,Not aware,Maori authorities - primary industries (6-29 employees),Percent,0,2021,1 and 2 and 3
+Table 22,Businesses' awareness of government policies and programmes to reduce New Zealand's greenhouse gas emissions,By business type,Don't know,Maori authorities - primary industries (6-29 employees),Percent,0,2021,1 and 2 and 3
+Table 22,Businesses' awareness of government policies and programmes to reduce New Zealand's greenhouse gas emissions,By business type,Very aware,Maori authorities - primary industries (30 or more employees),Percent,75,2021,1 and 2 and 3
+Table 22,Businesses' awareness of government policies and programmes to reduce New Zealand's greenhouse gas emissions,By business type,Somewhat aware,Maori authorities - primary industries (30 or more employees),Percent,25,2021,1 and 2 and 3
+Table 22,Businesses' awareness of government policies and programmes to reduce New Zealand's greenhouse gas emissions,By business type,Not aware,Maori authorities - primary industries (30 or more employees),Percent,0,2021,1 and 2 and 3
+Table 22,Businesses' awareness of government policies and programmes to reduce New Zealand's greenhouse gas emissions,By business type,Don't know,Maori authorities - primary industries (30 or more employees),Percent,C,2021,1 and 2 and 3
+Table 22,Businesses' awareness of government policies and programmes to reduce New Zealand's greenhouse gas emissions,By business type,Very aware,Maori authorities - other industries (6-29 employees),Percent,47,2021,1 and 2 and 3
+Table 22,Businesses' awareness of government policies and programmes to reduce New Zealand's greenhouse gas emissions,By business type,Somewhat aware,Maori authorities - other industries (6-29 employees),Percent,47,2021,1 and 2 and 3
+Table 22,Businesses' awareness of government policies and programmes to reduce New Zealand's greenhouse gas emissions,By business type,Not aware,Maori authorities - other industries (6-29 employees),Percent,C,2021,1 and 2 and 3
+Table 22,Businesses' awareness of government policies and programmes to reduce New Zealand's greenhouse gas emissions,By business type,Don't know,Maori authorities - other industries (6-29 employees),Percent,C,2021,1 and 2 and 3
+Table 22,Businesses' awareness of government policies and programmes to reduce New Zealand's greenhouse gas emissions,By business type,Very aware,Maori authorities - other industries (30 or more employees),Percent,55,2021,1 and 2 and 3
+Table 22,Businesses' awareness of government policies and programmes to reduce New Zealand's greenhouse gas emissions,By business type,Somewhat aware,Maori authorities - other industries (30 or more employees),Percent,36,2021,1 and 2 and 3
+Table 22,Businesses' awareness of government policies and programmes to reduce New Zealand's greenhouse gas emissions,By business type,Not aware,Maori authorities - other industries (30 or more employees),Percent,C,2021,1 and 2 and 3
+Table 22,Businesses' awareness of government policies and programmes to reduce New Zealand's greenhouse gas emissions,By business type,Don't know,Maori authorities - other industries (30 or more employees),Percent,C,2021,1 and 2 and 3
+Table 22,Businesses' awareness of government policies and programmes to reduce New Zealand's greenhouse gas emissions,By business type,Very aware,Other Maori enterprises,Percent,34,2021,1 and 4
+Table 22,Businesses' awareness of government policies and programmes to reduce New Zealand's greenhouse gas emissions,By business type,Somewhat aware,Other Maori enterprises,Percent,56,2021,1 and 4
+Table 22,Businesses' awareness of government policies and programmes to reduce New Zealand's greenhouse gas emissions,By business type,Not aware,Other Maori enterprises,Percent,8,2021,1 and 4
+Table 22,Businesses' awareness of government policies and programmes to reduce New Zealand's greenhouse gas emissions,By business type,Don't know,Other Maori enterprises,Percent,3,2021,1 and 4
+Table 22,Businesses' awareness of government policies and programmes to reduce New Zealand's greenhouse gas emissions,By business type,Very aware,All New Zealand businesses,Percent,27,2021,1 and 5
+Table 22,Businesses' awareness of government policies and programmes to reduce New Zealand's greenhouse gas emissions,By business type,Somewhat aware,All New Zealand businesses,Percent,55,2021,1 and 5
+Table 22,Businesses' awareness of government policies and programmes to reduce New Zealand's greenhouse gas emissions,By business type,Not aware,All New Zealand businesses,Percent,11,2021,1 and 5
+Table 22,Businesses' awareness of government policies and programmes to reduce New Zealand's greenhouse gas emissions,By business type,Don't know,All New Zealand businesses,Percent,7,2021,1 and 5
+Table 23,Actions businesses undertook in the last two years,By business type,Developed programmes to offset emissions - in response to climate change,Maori authorities,Percent,26,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Reduced waste - in response to climate change,Maori authorities,Percent,30,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Stopped or reduced using coal and / or natural gas - in response to climate change,Maori authorities,Percent,C,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Developed or expanded offering of low emission goods and services - in response to climate change,Maori authorities,Percent,6,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Changed to lower emission technologies - in response to climate change,Maori authorities,Percent,11,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Switched to more sustainable suppliers - in response to climate change,Maori authorities,Percent,11,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Increased use of digital technologies - in response to climate change,Maori authorities,Percent,9,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Assessed the risks to the business of the physical impacts of climate change (eg increased flooding or droughts) - in response to climate change,Maori authorities,Percent,33,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Took steps to reduce the risks to the business of the physical impacts of climate change - in response to climate change,Maori authorities,Percent,28,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Overall - in response to climate change,Maori authorities,Percent,54,2021,1 and 2 and 3 and 4 and 5
+Table 23,Actions businesses undertook in the last two years,By business type,Developed programmes to offset emissions - for some other reason,Maori authorities,Percent,30,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Reduced waste - for some other reason,Maori authorities,Percent,24,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Stopped or reduced using coal and / or natural gas - for some other reason,Maori authorities,Percent,C,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Developed or expanded offering of low emission goods and services - for some other reason,Maori authorities,Percent,4,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Changed to lower emission technologies - for some other reason,Maori authorities,Percent,9,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Switched to more sustainable suppliers - for some other reason,Maori authorities,Percent,9,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Increased use of digital technologies - for some other reason,Maori authorities,Percent,46,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Assessed the risks to the business of the physical impacts of climate change (eg increased flooding or droughts) - for some other reason,Maori authorities,Percent,17,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Took steps to reduce the risks to the business of the physical impacts of climate change - for some other reason,Maori authorities,Percent,15,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Overall - for some other reason,Maori authorities,Percent,69,2021,1 and 2 and 3 and 4 and 6
+Table 23,Actions businesses undertook in the last two years,By business type,Developed programmes to offset emissions - not done,Maori authorities,Percent,22,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Reduced waste - not done,Maori authorities,Percent,20,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Stopped or reduced using coal and / or natural gas - not done,Maori authorities,Percent,19,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Developed or expanded offering of low emission goods and services - not done,Maori authorities,Percent,22,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Changed to lower emission technologies - not done,Maori authorities,Percent,35,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Switched to more sustainable suppliers - not done,Maori authorities,Percent,39,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Increased use of digital technologies - not done,Maori authorities,Percent,15,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Assessed the risks to the business of the physical impacts of climate change (eg increased flooding or droughts) - not done,Maori authorities,Percent,24,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Took steps to reduce the risks to the business of the physical impacts of climate change - not done,Maori authorities,Percent,33,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Overall - not done,Maori authorities,Percent,..,2021,1 and 2 and 3 and 4
+Table 23,Actions businesses undertook in the last two years,By business type,Developed programmes to offset emissions - not applicable,Maori authorities,Percent,17,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Reduced waste - not applicable,Maori authorities,Percent,11,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Stopped or reduced using coal and / or natural gas - not applicable,Maori authorities,Percent,67,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Developed or expanded offering of low emission goods and services - not applicable,Maori authorities,Percent,61,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Changed to lower emission technologies - not applicable,Maori authorities,Percent,31,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Switched to more sustainable suppliers - not applicable,Maori authorities,Percent,24,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Increased use of digital technologies - not applicable,Maori authorities,Percent,20,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Assessed the risks to the business of the physical impacts of climate change (eg increased flooding or droughts) - not applicable,Maori authorities,Percent,17,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Took steps to reduce the risks to the business of the physical impacts of climate change - not applicable,Maori authorities,Percent,17,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Overall - not applicable,Maori authorities,Percent,..,2021,1 and 2 and 3 and 4
+Table 23,Actions businesses undertook in the last two years,By business type,Developed programmes to offset emissions - don't know,Maori authorities,Percent,9,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Reduced waste - don't know,Maori authorities,Percent,9,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Stopped or reduced using coal and / or natural gas - don't know,Maori authorities,Percent,9,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Developed or expanded offering of low emission goods and services - don't know,Maori authorities,Percent,9,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Changed to lower emission technologies - don't know,Maori authorities,Percent,9,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Switched to more sustainable suppliers - don't know,Maori authorities,Percent,11,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Increased use of digital technologies - don't know,Maori authorities,Percent,7,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Assessed the risks to the business of the physical impacts of climate change (eg increased flooding or droughts) - don't know,Maori authorities,Percent,9,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Took steps to reduce the risks to the business of the physical impacts of climate change - don't know,Maori authorities,Percent,11,2021,1 and 2 and 3
+Table 23,Actions businesses undertook in the last two years,By business type,Overall - don't know,Maori authorities,Percent,..,2021,1 and 2 and 3 and 4
+Table 23,Actions businesses undertook in the last two years,By business type,Developed programmes to offset emissions - in response to climate change,Other Maori enterprises,Percent,5,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Reduced waste - in response to climate change,Other Maori enterprises,Percent,25,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Stopped or reduced using coal and / or natural gas - in response to climate change,Other Maori enterprises,Percent,C,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Developed or expanded offering of low emission goods and services - in response to climate change,Other Maori enterprises,Percent,8,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Changed to lower emission technologies - in response to climate change,Other Maori enterprises,Percent,12,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Switched to more sustainable suppliers - in response to climate change,Other Maori enterprises,Percent,12,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Increased use of digital technologies - in response to climate change,Other Maori enterprises,Percent,12,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Assessed the risks to the business of the physical impacts of climate change (eg increased flooding or droughts) - in response to climate change,Other Maori enterprises,Percent,15,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Took steps to reduce the risks to the business of the physical impacts of climate change - in response to climate change,Other Maori enterprises,Percent,12,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Overall - in response to climate change,Other Maori enterprises,Percent,41,2021,1 and 4 and 5 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Developed programmes to offset emissions - for some other reason,Other Maori enterprises,Percent,12,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Reduced waste - for some other reason,Other Maori enterprises,Percent,41,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Stopped or reduced using coal and / or natural gas - for some other reason,Other Maori enterprises,Percent,C,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Developed or expanded offering of low emission goods and services - for some other reason,Other Maori enterprises,Percent,3,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Changed to lower emission technologies - for some other reason,Other Maori enterprises,Percent,10,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Switched to more sustainable suppliers - for some other reason,Other Maori enterprises,Percent,8,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Increased use of digital technologies - for some other reason,Other Maori enterprises,Percent,47,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Assessed the risks to the business of the physical impacts of climate change (eg increased flooding or droughts) - for some other reason,Other Maori enterprises,Percent,14,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Took steps to reduce the risks to the business of the physical impacts of climate change - for some other reason,Other Maori enterprises,Percent,14,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Overall - for some other reason,Other Maori enterprises,Percent,66,2021,1 and 4 and 6 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Developed programmes to offset emissions - not done,Other Maori enterprises,Percent,42,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Reduced waste - not done,Other Maori enterprises,Percent,10,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Stopped or reduced using coal and / or natural gas - not done,Other Maori enterprises,Percent,14,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Developed or expanded offering of low emission goods and services - not done,Other Maori enterprises,Percent,25,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Changed to lower emission technologies - not done,Other Maori enterprises,Percent,31,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Switched to more sustainable suppliers - not done,Other Maori enterprises,Percent,41,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Increased use of digital technologies - not done,Other Maori enterprises,Percent,15,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Assessed the risks to the business of the physical impacts of climate change (eg increased flooding or droughts) - not done,Other Maori enterprises,Percent,32,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Took steps to reduce the risks to the business of the physical impacts of climate change - not done,Other Maori enterprises,Percent,36,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Overall - not done,Other Maori enterprises,Percent,..,2021,1 and 4 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Developed programmes to offset emissions - not applicable,Other Maori enterprises,Percent,36,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Reduced waste - not applicable,Other Maori enterprises,Percent,14,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Stopped or reduced using coal and / or natural gas - not applicable,Other Maori enterprises,Percent,78,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Developed or expanded offering of low emission goods and services - not applicable,Other Maori enterprises,Percent,61,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Changed to lower emission technologies - not applicable,Other Maori enterprises,Percent,39,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Switched to more sustainable suppliers - not applicable,Other Maori enterprises,Percent,29,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Increased use of digital technologies - not applicable,Other Maori enterprises,Percent,22,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Assessed the risks to the business of the physical impacts of climate change (eg increased flooding or droughts) - not applicable,Other Maori enterprises,Percent,31,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Took steps to reduce the risks to the business of the physical impacts of climate change - not applicable,Other Maori enterprises,Percent,34,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Overall - not applicable,Other Maori enterprises,Percent,..,2021,1 and 4 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Developed programmes to offset emissions - don't know,Other Maori enterprises,Percent,5,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Reduced waste - don't know,Other Maori enterprises,Percent,5,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Stopped or reduced using coal and / or natural gas - don't know,Other Maori enterprises,Percent,3,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Developed or expanded offering of low emission goods and services - don't know,Other Maori enterprises,Percent,3,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Changed to lower emission technologies - don't know,Other Maori enterprises,Percent,3,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Switched to more sustainable suppliers - don't know,Other Maori enterprises,Percent,7,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Increased use of digital technologies - don't know,Other Maori enterprises,Percent,5,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Assessed the risks to the business of the physical impacts of climate change (eg increased flooding or droughts) - don't know,Other Maori enterprises,Percent,7,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Took steps to reduce the risks to the business of the physical impacts of climate change - don't know,Other Maori enterprises,Percent,8,2021,1 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Overall - don't know,Other Maori enterprises,Percent,..,2021,1 and 4 and 7
+Table 23,Actions businesses undertook in the last two years,By business type,Developed programmes to offset emissions - in response to climate change,All New Zealand businesses,Percent,6,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Reduced waste - in response to climate change,All New Zealand businesses,Percent,23,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Stopped or reduced using coal and / or natural gas - in response to climate change,All New Zealand businesses,Percent,1,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Developed or expanded offering of low emission goods and services - in response to climate change,All New Zealand businesses,Percent,6,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Changed to lower emission technologies - in response to climate change,All New Zealand businesses,Percent,8,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Switched to more sustainable suppliers - in response to climate change,All New Zealand businesses,Percent,11,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Increased use of digital technologies - in response to climate change,All New Zealand businesses,Percent,10,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Assessed the risks to the business of the physical impacts of climate change (eg increased flooding or droughts) - in response to climate change,All New Zealand businesses,Percent,9,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Took steps to reduce the risks to the business of the physical impacts of climate change - in response to climate change,All New Zealand businesses,Percent,8,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Overall - in response to climate change,All New Zealand businesses,Percent,35,2021,1 and 4 and 5 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Developed programmes to offset emissions - for some other reason,All New Zealand businesses,Percent,7,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Reduced waste - for some other reason,All New Zealand businesses,Percent,34,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Stopped or reduced using coal and / or natural gas - for some other reason,All New Zealand businesses,Percent,1,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Developed or expanded offering of low emission goods and services - for some other reason,All New Zealand businesses,Percent,4,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Changed to lower emission technologies - for some other reason,All New Zealand businesses,Percent,6,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Switched to more sustainable suppliers - for some other reason,All New Zealand businesses,Percent,9,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Increased use of digital technologies - for some other reason,All New Zealand businesses,Percent,39,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Assessed the risks to the business of the physical impacts of climate change (eg increased flooding or droughts) - for some other reason,All New Zealand businesses,Percent,7,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Took steps to reduce the risks to the business of the physical impacts of climate change - for some other reason,All New Zealand businesses,Percent,7,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Overall - for some other reason,All New Zealand businesses,Percent,59,2021,1 and 4 and 6 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Developed programmes to offset emissions - not done,All New Zealand businesses,Percent,41,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Reduced waste - not done,All New Zealand businesses,Percent,18,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Stopped or reduced using coal and / or natural gas - not done,All New Zealand businesses,Percent,17,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Developed or expanded offering of low emission goods and services - not done,All New Zealand businesses,Percent,22,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Changed to lower emission technologies - not done,All New Zealand businesses,Percent,29,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Switched to more sustainable suppliers - not done,All New Zealand businesses,Percent,35,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Increased use of digital technologies - not done,All New Zealand businesses,Percent,16,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Assessed the risks to the business of the physical impacts of climate change (eg increased flooding or droughts) - not done,All New Zealand businesses,Percent,37,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Took steps to reduce the risks to the business of the physical impacts of climate change - not done,All New Zealand businesses,Percent,41,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Overall - not done,All New Zealand businesses,Percent,..,2021,1 and 4 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Developed programmes to offset emissions - not applicable,All New Zealand businesses,Percent,37,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Reduced waste - not applicable,All New Zealand businesses,Percent,16,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Stopped or reduced using coal and / or natural gas - not applicable,All New Zealand businesses,Percent,72,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Developed or expanded offering of low emission goods and services - not applicable,All New Zealand businesses,Percent,59,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Changed to lower emission technologies - not applicable,All New Zealand businesses,Percent,47,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Switched to more sustainable suppliers - not applicable,All New Zealand businesses,Percent,33,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Increased use of digital technologies - not applicable,All New Zealand businesses,Percent,26,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Assessed the risks to the business of the physical impacts of climate change (eg increased flooding or droughts) - not applicable,All New Zealand businesses,Percent,35,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Took steps to reduce the risks to the business of the physical impacts of climate change - not applicable,All New Zealand businesses,Percent,32,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Overall - not applicable,All New Zealand businesses,Percent,..,2021,1 and 4 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Developed programmes to offset emissions - don't know,All New Zealand businesses,Percent,9,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Reduced waste - don't know,All New Zealand businesses,Percent,9,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Stopped or reduced using coal and / or natural gas - don't know,All New Zealand businesses,Percent,9,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Developed or expanded offering of low emission goods and services - don't know,All New Zealand businesses,Percent,10,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Changed to lower emission technologies - don't know,All New Zealand businesses,Percent,11,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Switched to more sustainable suppliers - don't know,All New Zealand businesses,Percent,11,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Increased use of digital technologies - don't know,All New Zealand businesses,Percent,9,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Assessed the risks to the business of the physical impacts of climate change (eg increased flooding or droughts) - don't know,All New Zealand businesses,Percent,11,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Took steps to reduce the risks to the business of the physical impacts of climate change - don't know,All New Zealand businesses,Percent,12,2021,1 and 8
+Table 23,Actions businesses undertook in the last two years,By business type,Overall - don't know,All New Zealand businesses,Percent,..,2021,1 and 4 and 8
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Experienced the physical impacts of climate change,All Maori authorities,Percent,41,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Participation in government programmes,All Maori authorities,Percent,35,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Demand from management/board/employees,All Maori authorities,Percent,57,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Pressure from competitors,All Maori authorities,Percent,7,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Demand from investors or shareholders,All Maori authorities,Percent,24,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Demand from customers,All Maori authorities,Percent,24,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Public opinion,All Maori authorities,Percent,22,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,To minimise supply chain disruptions,All Maori authorities,Percent,17,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,To take advantage of opportunities presented by climate change,All Maori authorities,Percent,11,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Potential for litigation,All Maori authorities,Percent,4,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Other,All Maori authorities,Percent,11,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Did not make any changes,All Maori authorities,Percent,9,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Don�t know,All Maori authorities,Percent,0,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Experienced the physical impacts of climate change,Maori authorities - primary industries (6-29 employees),Percent,53,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Participation in government programmes,Maori authorities - primary industries (6-29 employees),Percent,35,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Demand from management/board/employees,Maori authorities - primary industries (6-29 employees),Percent,53,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Pressure from competitors,Maori authorities - primary industries (6-29 employees),Percent,12,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Demand from investors or shareholders,Maori authorities - primary industries (6-29 employees),Percent,24,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Demand from customers,Maori authorities - primary industries (6-29 employees),Percent,18,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Public opinion,Maori authorities - primary industries (6-29 employees),Percent,24,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,To minimise supply chain disruptions,Maori authorities - primary industries (6-29 employees),Percent,24,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,To take advantage of opportunities presented by climate change,Maori authorities - primary industries (6-29 employees),Percent,12,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Potential for litigation,Maori authorities - primary industries (6-29 employees),Percent,12,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Other,Maori authorities - primary industries (6-29 employees),Percent,C,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Did not make any changes,Maori authorities - primary industries (6-29 employees),Percent,C,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Don�t know,Maori authorities - primary industries (6-29 employees),Percent,C,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Experienced the physical impacts of climate change,Maori authorities - primary industries (30 or more employees),Percent,25,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Participation in government programmes,Maori authorities - primary industries (30 or more employees),Percent,25,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Demand from management/board/employees,Maori authorities - primary industries (30 or more employees),Percent,75,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Pressure from competitors,Maori authorities - primary industries (30 or more employees),Percent,C,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Demand from investors or shareholders,Maori authorities - primary industries (30 or more employees),Percent,25,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Demand from customers,Maori authorities - primary industries (30 or more employees),Percent,50,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Public opinion,Maori authorities - primary industries (30 or more employees),Percent,25,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,To minimise supply chain disruptions,Maori authorities - primary industries (30 or more employees),Percent,25,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,To take advantage of opportunities presented by climate change,Maori authorities - primary industries (30 or more employees),Percent,C,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Potential for litigation,Maori authorities - primary industries (30 or more employees),Percent,0,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Other,Maori authorities - primary industries (30 or more employees),Percent,C,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Did not make any changes,Maori authorities - primary industries (30 or more employees),Percent,0,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Don�t know,Maori authorities - primary industries (30 or more employees),Percent,0,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Experienced the physical impacts of climate change,Maori authorities - other industries (6-29 employees),Percent,18,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Participation in government programmes,Maori authorities - other industries (6-29 employees),Percent,29,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Demand from management/board/employees,Maori authorities - other industries (6-29 employees),Percent,59,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Pressure from competitors,Maori authorities - other industries (6-29 employees),Percent,C,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Demand from investors or shareholders,Maori authorities - other industries (6-29 employees),Percent,35,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Demand from customers,Maori authorities - other industries (6-29 employees),Percent,24,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Public opinion,Maori authorities - other industries (6-29 employees),Percent,18,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,To minimise supply chain disruptions,Maori authorities - other industries (6-29 employees),Percent,6,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,To take advantage of opportunities presented by climate change,Maori authorities - other industries (6-29 employees),Percent,C,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Potential for litigation,Maori authorities - other industries (6-29 employees),Percent,0,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Other,Maori authorities - other industries (6-29 employees),Percent,12,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Did not make any changes,Maori authorities - other industries (6-29 employees),Percent,12,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Don�t know,Maori authorities - other industries (6-29 employees),Percent,C,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Experienced the physical impacts of climate change,Maori authorities - other industries (30 or more employees),Percent,63,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Participation in government programmes,Maori authorities - other industries (30 or more employees),Percent,38,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Demand from management/board/employees,Maori authorities - other industries (30 or more employees),Percent,63,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Pressure from competitors,Maori authorities - other industries (30 or more employees),Percent,C,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Demand from investors or shareholders,Maori authorities - other industries (30 or more employees),Percent,C,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Demand from customers,Maori authorities - other industries (30 or more employees),Percent,38,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Public opinion,Maori authorities - other industries (30 or more employees),Percent,25,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,To minimise supply chain disruptions,Maori authorities - other industries (30 or more employees),Percent,25,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,To take advantage of opportunities presented by climate change,Maori authorities - other industries (30 or more employees),Percent,25,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Potential for litigation,Maori authorities - other industries (30 or more employees),Percent,0,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Other,Maori authorities - other industries (30 or more employees),Percent,C,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Did not make any changes,Maori authorities - other industries (30 or more employees),Percent,C,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Don�t know,Maori authorities - other industries (30 or more employees),Percent,0,2021,1 and 2 and 3 and 4
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Experienced the physical impacts of climate change,Other Maori enterprises,Percent,29,2021,1 and 2 and 5
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Participation in government programmes,Other Maori enterprises,Percent,10,2021,1 and 2 and 5
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Demand from management/board/employees,Other Maori enterprises,Percent,24,2021,1 and 2 and 5
+Table 24,Main reasons that businesses undertook climate change-related actions,By business type,Pressure from competitors,Other Maori enterprises,Percent,4,2021,1 and 2 and 5
